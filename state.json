@@ -1,0 +1,30 @@
+{
+ "cg_alerted": {
+  "quant-network": 1790544210
+ },
+ "dex_alerted": {},
+ "helius_credits": 0,
+ "helius_month": "",
+ "helius_warned": false,
+ "last_cg": 1790544210,
+ "last_wallets": 0,
+ "tg_offset": 550211752,
+ "trending": [
+  "quant-network",
+  "near",
+  "official-trump",
+  "rhea-2",
+  "edel",
+  "pudgy-penguins",
+  "pump-fun",
+  "shuffle-2",
+  "sky",
+  "sui",
+  "backpack",
+  "zcash",
+  "solana",
+  "ethena",
+  "arbitrum"
+ ],
+ "wallets": {}
+}
