@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "jupiter-exchange-solana": 1790546805,
   "quant-network": 1790544210
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790545371,
+ "last_cg": 1790546805,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "rhea-2",
-  "official-trump",
   "near",
-  "edel",
   "pudgy-penguins",
+  "edel",
+  "official-trump",
   "pump-fun",
   "stonk-3",
-  "sui",
   "raydium",
-  "shuffle-2",
-  "solana",
-  "ethena",
   "pons",
-  "hedera-hashgraph"
+  "shuffle-2",
+  "bittensor",
+  "zcash",
+  "worldcoin-wld",
+  "sui"
  ],
  "wallets": {}
 }
