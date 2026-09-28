@@ -8,25 +8,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790588260,
+ "last_cg": 1790589264,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "hedera-hashgraph",
   "edel",
-  "ondo-finance",
   "near",
-  "ethena",
-  "cash-cat",
+  "ondo-finance",
   "pudgy-penguins",
+  "ethena",
   "bittensor",
-  "sui",
   "marscoin-4",
+  "sui",
   "bitcoin",
-  "pearl-2",
+  "rhea-2",
   "the-open-network",
-  "monad"
+  "cash-cat",
+  "backpack"
  ],
  "wallets": {}
 }
