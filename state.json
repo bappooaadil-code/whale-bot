@@ -2,15 +2,17 @@
  "cg_alerted": {
   "algorand": 1790607737,
   "bitway": 1790612416,
+  "chainlink": 1790615359,
   "hedera-hashgraph": 1790612416,
   "jupiter-exchange-solana": 1790607737,
+  "pump-fun": 1790615359,
   "quant-network": 1790605589
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790614447,
+ "last_cg": 1790615359,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -18,17 +20,17 @@
   "quant-network",
   "hedera-hashgraph",
   "official-trump",
-  "near",
   "chainlink",
-  "bittensor",
-  "pearl-2",
-  "pudgy-penguins",
-  "ondo-finance",
-  "algorand",
-  "aerodrome-finance",
+  "near",
   "pump-fun",
   "uniswap",
-  "derive"
+  "ondo-finance",
+  "algorand",
+  "pearl-2",
+  "pons",
+  "pudgy-penguins",
+  "monad",
+  "bittensor"
  ],
  "wallets": {}
 }
