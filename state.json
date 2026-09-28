@@ -1,18 +1,16 @@
 {
  "cg_alerted": {
   "algorand": 1790607737,
-  "crypto-com-chain": 1790601067,
-  "figure-heloc": 1790601067,
+  "bitway": 1790612416,
+  "hedera-hashgraph": 1790612416,
   "jupiter-exchange-solana": 1790607737,
-  "pump-fun": 1790601067,
-  "quant-network": 1790605589,
-  "stellar": 1790601067
+  "quant-network": 1790605589
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790611079,
+ "last_cg": 1790612416,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -20,16 +18,16 @@
   "quant-network",
   "hedera-hashgraph",
   "near",
+  "official-trump",
+  "bittensor",
   "ondo-finance",
   "chainlink",
-  "bittensor",
-  "official-trump",
-  "hyperliquid",
   "pudgy-penguins",
+  "algorand",
+  "aerodrome-finance",
   "pearl-2",
   "uniswap",
-  "sui",
-  "solana",
+  "hyperliquid",
   "rhea-2"
  ],
  "wallets": {}
