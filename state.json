@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790559165,
+ "last_cg": 1790560020,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -16,16 +16,16 @@
   "near",
   "rhea-2",
   "pudgy-penguins",
-  "edel",
   "ondo-finance",
-  "pons",
   "pump-fun",
+  "pons",
+  "stonk-3",
+  "kaspa",
+  "backpack",
+  "sei-network",
   "aerodrome-finance",
   "sui",
-  "ripple",
-  "backpack",
-  "kaspa",
-  "bittensor"
+  "zcash"
  ],
  "wallets": {}
 }
