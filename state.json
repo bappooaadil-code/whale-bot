@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790572850,
+ "last_cg": 1790573824,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "near",
   "rhea-2",
   "ondo-finance",
-  "pump-fun",
   "sei-network",
+  "pump-fun",
   "sui",
   "pudgy-penguins",
-  "zcash",
-  "the-graph",
-  "pons",
-  "arbitrum",
   "quack-ai",
-  "fartcoin",
-  "bitcoin"
+  "cash-cat",
+  "the-graph",
+  "bitcoin",
+  "zcash",
+  "canton-network",
+  "solana"
  ],
  "wallets": {}
 }
