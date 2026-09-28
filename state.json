@@ -1,6 +1,5 @@
 {
  "cg_alerted": {
-  "jupiter-exchange-solana": 1790546805,
   "ondo-finance": 1790554499,
   "quant-network": 1790556071
  },
@@ -8,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790557097,
+ "last_cg": 1790558224,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
-  "edel",
   "official-trump",
   "near",
-  "ondo-finance",
   "rhea-2",
+  "edel",
+  "ondo-finance",
   "pudgy-penguins",
-  "sui",
-  "stonk-3",
-  "backpack",
-  "zcash",
   "pons",
+  "pump-fun",
+  "sui",
+  "backpack",
+  "aerodrome-finance",
   "bittensor",
-  "ripple",
-  "aerodrome-finance"
+  "aurora-near",
+  "stonk-3"
  ],
  "wallets": {}
 }
