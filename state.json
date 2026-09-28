@@ -9,7 +9,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790598928,
+ "last_cg": 1790600077,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -19,15 +19,15 @@
   "hedera-hashgraph",
   "near",
   "bitcoin",
-  "pudgy-penguins",
-  "chainlink",
   "ondo-finance",
+  "chainlink",
   "sui",
-  "pump-fun",
-  "sei-network",
+  "pudgy-penguins",
   "backpack",
-  "algorand",
-  "pearl-2"
+  "pump-fun",
+  "pearl-2",
+  "sei-network",
+  "stellar"
  ],
  "wallets": {}
 }
