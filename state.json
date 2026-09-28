@@ -6,31 +6,31 @@
   "hedera-hashgraph": 1790612416,
   "jupiter-exchange-solana": 1790607737,
   "pump-fun": 1790615359,
-  "quant-network": 1790605589
+  "quant-network": 1790616467
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790615359,
+ "last_cg": 1790616467,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "zcoin",
   "quant-network",
   "hedera-hashgraph",
-  "official-trump",
   "chainlink",
+  "official-trump",
   "near",
   "pump-fun",
-  "uniswap",
-  "ondo-finance",
-  "algorand",
   "pearl-2",
-  "pons",
   "pudgy-penguins",
   "monad",
-  "bittensor"
+  "aerodrome-finance",
+  "ondo-finance",
+  "uniswap",
+  "bitcoin",
+  "pons"
  ],
  "wallets": {}
 }
