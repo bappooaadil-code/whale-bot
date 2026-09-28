@@ -12,7 +12,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790610120,
+ "last_cg": 1790611079,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -23,14 +23,14 @@
   "ondo-finance",
   "chainlink",
   "bittensor",
-  "hyperliquid",
   "official-trump",
-  "sui",
-  "rhea-2",
-  "stellar",
-  "stonk-3",
+  "hyperliquid",
   "pudgy-penguins",
-  "uniswap"
+  "pearl-2",
+  "uniswap",
+  "sui",
+  "solana",
+  "rhea-2"
  ],
  "wallets": {}
 }
