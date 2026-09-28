@@ -2,14 +2,13 @@
  "cg_alerted": {
   "hedera-hashgraph": 1790587149,
   "ondo-finance": 1790583905,
-  "quant-network": 1790579445,
-  "xdce-crowd-sale": 1790577098
+  "quant-network": 1790579445
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790587149,
+ "last_cg": 1790588260,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -18,16 +17,16 @@
   "edel",
   "ondo-finance",
   "near",
-  "marscoin-4",
+  "ethena",
   "cash-cat",
   "pudgy-penguins",
-  "ethena",
-  "pearl-2",
-  "sui",
   "bittensor",
-  "monad",
+  "sui",
+  "marscoin-4",
+  "bitcoin",
+  "pearl-2",
   "the-open-network",
-  "pons"
+  "monad"
  ],
  "wallets": {}
 }
