@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
-  "quant-network": 1790567698
+  "quant-network": 1790567698,
+  "xdce-crowd-sale": 1790577098
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790574722,
+ "last_cg": 1790577098,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "near",
-  "ondo-finance",
-  "sei-network",
-  "rhea-2",
   "cash-cat",
-  "pudgy-penguins",
+  "ondo-finance",
   "sui",
-  "quack-ai",
-  "pump-fun",
-  "the-graph",
+  "sei-network",
   "zcash",
+  "rhea-2",
+  "pump-fun",
+  "pudgy-penguins",
   "bitcoin",
+  "sanctum-2",
+  "pons",
   "bittensor",
-  "ripple"
+  "venice-token"
  ],
  "wallets": {}
 }
