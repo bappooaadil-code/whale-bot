@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790568677,
+ "last_cg": 1790569842,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "near",
-  "rhea-2",
   "pump-fun",
   "ondo-finance",
-  "bitcoin",
+  "rhea-2",
   "pudgy-penguins",
-  "sei-network",
   "pons",
+  "bitcoin",
+  "sei-network",
   "sanctum-2",
   "pearl-2",
-  "bittensor",
+  "chainlink",
+  "zcash",
   "pi-network",
-  "lighter",
-  "canton-network"
+  "aptos"
  ],
  "wallets": {}
 }
