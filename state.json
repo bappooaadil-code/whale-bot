@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790632791,
+ "last_cg": 1790633918,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "zcoin",
   "quant-network",
-  "official-trump",
-  "collector-crypt",
   "hedera-hashgraph",
   "near",
+  "official-trump",
+  "collector-crypt",
   "chainlink",
-  "stellar",
-  "algorand",
   "pudgy-penguins",
+  "stellar",
   "backpack",
-  "avalanche-2",
+  "bitcoin",
+  "sui",
   "pyth-network",
   "zcash",
-  "ethereum"
+  "algorand"
  ],
  "wallets": {}
 }
