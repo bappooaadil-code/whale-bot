@@ -10,25 +10,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790612416,
+ "last_cg": 1790613427,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "zcoin",
   "quant-network",
   "hedera-hashgraph",
-  "near",
   "official-trump",
-  "bittensor",
-  "ondo-finance",
-  "chainlink",
+  "near",
   "pudgy-penguins",
-  "algorand",
+  "ondo-finance",
   "aerodrome-finance",
+  "bittensor",
+  "chainlink",
   "pearl-2",
+  "algorand",
   "uniswap",
-  "hyperliquid",
-  "rhea-2"
+  "pump-fun",
+  "sui"
  ],
  "wallets": {}
 }
