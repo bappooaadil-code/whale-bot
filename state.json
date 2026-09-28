@@ -2,13 +2,13 @@
  "cg_alerted": {
   "hedera-hashgraph": 1790587149,
   "ondo-finance": 1790583905,
-  "quant-network": 1790579445
+  "quant-network": 1790591440
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790590235,
+ "last_cg": 1790591440,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -17,16 +17,16 @@
   "edel",
   "near",
   "ondo-finance",
+  "official-trump",
   "sui",
-  "bittensor",
   "rhea-2",
-  "bitcoin",
-  "backpack",
-  "ethena",
-  "pons",
+  "bittensor",
+  "hyperliquid",
   "pudgy-penguins",
-  "the-open-network",
-  "algorand"
+  "chainlink",
+  "uniswap",
+  "lighter",
+  "pons"
  ],
  "wallets": {}
 }
