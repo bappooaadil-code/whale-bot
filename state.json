@@ -1,36 +1,35 @@
 {
  "cg_alerted": {
   "akedo": 1790597397,
-  "bitway": 1790594393,
-  "canton-network": 1790594393,
   "crypto-com-chain": 1790601067,
   "figure-heloc": 1790601067,
   "pump-fun": 1790601067,
+  "quant-network": 1790605589,
   "stellar": 1790601067
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790603432,
+ "last_cg": 1790605589,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
-  "hedera-hashgraph",
   "zcoin",
+  "hedera-hashgraph",
   "official-trump",
   "near",
-  "pudgy-penguins",
-  "chainlink",
   "pons",
-  "sui",
+  "backpack",
+  "chainlink",
   "ondo-finance",
-  "bitcoin",
-  "stonk-3",
   "pearl-2",
-  "monad",
-  "marscoin-4"
+  "pudgy-penguins",
+  "stonk-3",
+  "avalanche-2",
+  "pump-fun",
+  "rhea-2"
  ],
  "wallets": {}
 }
