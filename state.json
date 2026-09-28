@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "xdce-crowd-sale": 1790626656
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790637329,
+ "last_cg": 1790638271,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "zcoin",
   "quant-network",
   "official-trump",
-  "near",
   "hedera-hashgraph",
+  "near",
   "chainlink",
   "ondo-finance",
   "pearl-2",
-  "uniswap",
+  "pudgy-penguins",
   "stellar",
   "sui",
-  "pudgy-penguins",
-  "avalanche-2",
-  "bitcoin",
-  "backpack"
+  "zcash",
+  "backpack",
+  "rhea-2",
+  "xdce-crowd-sale"
  ],
  "wallets": {}
 }
