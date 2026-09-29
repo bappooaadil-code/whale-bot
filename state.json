@@ -1,33 +1,31 @@
 {
  "cg_alerted": {
-  "hedera-hashgraph": 1790701663,
   "near": 1790709628,
-  "quant-network": 1790709628,
-  "rain": 1790701663
+  "quant-network": 1790709628
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790711489,
+ "last_cg": 1790713465,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
-  "hedera-hashgraph",
   "pudgy-penguins",
   "near",
-  "official-trump",
-  "aave",
-  "zcash",
-  "ribbita-by-virtuals",
-  "backpack",
+  "hedera-hashgraph",
   "grass",
-  "bittensor",
-  "stonk-3",
+  "zcash",
+  "aave",
+  "ribbita-by-virtuals",
+  "official-trump",
   "avalanche-2",
-  "chainlink",
-  "ondo-finance"
+  "stonk-3",
+  "solana",
+  "backpack",
+  "neuralai",
+  "pearl-2"
  ],
  "wallets": {}
 }
