@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790684762,
+ "last_cg": 1790686131,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "pump-fun",
-  "near",
   "aave",
-  "pudgy-penguins",
   "avalanche-2",
-  "hedera-hashgraph",
+  "near",
+  "pudgy-penguins",
   "sui",
+  "hedera-hashgraph",
+  "pons",
   "pearl-2",
-  "solana",
   "syrup",
-  "pendle",
-  "internet-computer",
+  "solana",
+  "injective-protocol",
   "chainlink",
-  "pons"
+  "internet-computer"
  ],
  "wallets": {}
 }
