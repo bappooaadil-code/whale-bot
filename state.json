@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790678380,
+ "last_cg": 1790679314,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "zcoin",
   "quant-network",
+  "near",
   "aave",
   "hedera-hashgraph",
   "sui",
-  "near",
-  "chainlink",
   "avalanche-2",
+  "chainlink",
   "pudgy-penguins",
+  "bittensor",
   "ondo-finance",
   "pump-fun",
-  "fetch-ai",
-  "bittensor",
+  "solana",
   "zcash",
-  "monad"
+  "backpack"
  ],
  "wallets": {}
 }
