@@ -1,29 +1,31 @@
 {
  "cg_alerted": {
-  "quant-network": 1790695243
+  "hedera-hashgraph": 1790701663,
+  "quant-network": 1790695243,
+  "rain": 1790701663
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790700810,
+ "last_cg": 1790701663,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "near",
   "aave",
-  "pump-fun",
   "avalanche-2",
   "pearl-2",
+  "pump-fun",
+  "official-trump",
   "pudgy-penguins",
+  "ethereum",
   "hedera-hashgraph",
   "zebec-network",
-  "ethereum",
-  "bitcoin",
   "internet-computer",
-  "stonk-3",
-  "zcash",
+  "sui",
+  "bitcoin",
   "derive"
  ],
  "wallets": {}
