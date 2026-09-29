@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "bitway": 1790680287,
   "quant-network": 1790669716
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790679314,
+ "last_cg": 1790680287,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "zcoin",
   "quant-network",
-  "near",
+  "zcoin",
   "aave",
-  "hedera-hashgraph",
+  "near",
   "sui",
+  "pudgy-penguins",
+  "hedera-hashgraph",
   "avalanche-2",
   "chainlink",
-  "pudgy-penguins",
-  "bittensor",
   "ondo-finance",
-  "pump-fun",
-  "solana",
+  "bittensor",
   "zcash",
-  "backpack"
+  "stellar",
+  "collector-crypt",
+  "hyperliquid"
  ],
  "wallets": {}
 }
