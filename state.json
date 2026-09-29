@@ -1,10 +1,12 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "quant-network": 1790669716
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790668555,
+ "last_cg": 1790669716,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -13,16 +15,16 @@
   "zcoin",
   "near",
   "zcash",
-  "pearl-2",
+  "ondo-finance",
   "pudgy-penguins",
   "grass",
-  "ondo-finance",
-  "stellar",
-  "algorand",
-  "curve-dao-token",
-  "sui",
+  "pearl-2",
   "aave",
-  "chainlink"
+  "chainlink",
+  "curve-dao-token",
+  "bitcoin",
+  "algorand",
+  "uniswap"
  ],
  "wallets": {}
 }
