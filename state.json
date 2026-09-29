@@ -8,25 +8,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790702790,
+ "last_cg": 1790703851,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "official-trump",
   "quant-network",
   "near",
-  "official-trump",
+  "pudgy-penguins",
   "pump-fun",
   "avalanche-2",
-  "aave",
-  "pudgy-penguins",
   "pearl-2",
+  "aave",
   "hedera-hashgraph",
   "bitcoin",
+  "ethena",
+  "zcash",
   "sui",
   "ethereum",
-  "ethena",
-  "internet-computer",
-  "zcash"
+  "chainlink"
  ],
  "wallets": {}
 }
