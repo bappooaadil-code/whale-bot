@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790691776,
+ "last_cg": 1790692868,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "quant-network",
   "avalanche-2",
+  "quant-network",
   "near",
-  "pump-fun",
+  "pudgy-penguins",
   "aave",
+  "pump-fun",
   "pearl-2",
   "chainlink",
-  "pudgy-penguins",
-  "stonk-3",
   "ondo-finance",
+  "stonk-3",
   "bitcoin",
-  "sui",
+  "peaq-2",
   "hedera-hashgraph",
-  "venice-token",
-  "jupiter-exchange-solana"
+  "sui",
+  "bittensor"
  ],
  "wallets": {}
 }
