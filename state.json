@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790670953,
+ "last_cg": 1790671981,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -17,14 +17,14 @@
   "near",
   "ondo-finance",
   "pudgy-penguins",
+  "zcash",
   "aave",
+  "bittensor",
   "uniswap",
   "avalanche-2",
-  "chainlink",
   "pons",
-  "pump-fun",
-  "zcash",
-  "bittensor"
+  "chainlink",
+  "stellar"
  ],
  "wallets": {}
 }
