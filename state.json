@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790653023,
+ "last_cg": 1790653983,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "zcoin",
   "near",
   "hedera-hashgraph",
-  "pudgy-penguins",
   "bitcoin",
+  "pudgy-penguins",
+  "pearl-2",
+  "backpack",
   "chainlink",
   "pons",
   "hyperliquid",
-  "backpack",
-  "collector-crypt",
+  "rhea-2",
+  "zcash",
   "sui",
-  "stonk-3",
-  "render-token",
-  "ethereum"
+  "peaq-2"
  ],
  "wallets": {}
 }
