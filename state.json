@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790743181,
+ "last_cg": 1790744135,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "pudgy-penguins",
   "pump-fun",
-  "concordium",
   "lighter",
+  "concordium",
   "near",
-  "grass",
   "hedera-hashgraph",
+  "grass",
   "pons",
   "sui",
+  "pearl-2",
   "aster-2",
-  "ripple",
-  "zebec-network",
-  "avalanche-2",
-  "injective-protocol"
+  "injective-protocol",
+  "bitcoin",
+  "ripple"
  ],
  "wallets": {}
 }
