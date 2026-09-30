@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1790782656,
-  "bitway": 1790778952
+  "akedo": 1790782656
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790789081,
+ "last_cg": 1790790053,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "official-trump",
-  "edel",
   "pudgy-penguins",
+  "edel",
   "near",
-  "ondo-finance",
   "lighter",
-  "solana",
-  "sui",
-  "pearl-2",
-  "pons",
+  "ondo-finance",
   "hyperliquid",
-  "neuralai",
+  "solana",
+  "pump-fun",
+  "venice-token",
+  "concordium",
+  "sui",
   "backpack",
-  "pump-fun"
+  "ethena"
  ],
  "wallets": {}
 }
