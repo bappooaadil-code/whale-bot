@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790803253,
+ "last_cg": 1790804302,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "edel",
   "quant-network",
-  "concordium",
-  "official-trump",
   "near",
   "backpack",
+  "concordium",
+  "official-trump",
   "pudgy-penguins",
   "bittensor",
   "lighter",
   "pearl-2",
+  "pons",
   "ethereum",
-  "sui",
-  "venice-token",
-  "bitcoin",
-  "ethena"
+  "moonriver",
+  "aerodrome-finance",
+  "bitcoin"
  ],
  "wallets": {}
 }
