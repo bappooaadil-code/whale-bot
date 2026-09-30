@@ -1,10 +1,12 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "akedo": 1790759718
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790758613,
+ "last_cg": 1790759718,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +14,17 @@
   "moonriver",
   "lighter",
   "grass",
-  "pudgy-penguins",
   "layerzero",
   "ondo-finance",
-  "solana",
   "near",
-  "aster-2",
+  "pudgy-penguins",
   "sui",
-  "internet-computer",
-  "hedera-hashgraph",
-  "chainlink",
-  "avalanche-2"
+  "aster-2",
+  "solana",
+  "ethena",
+  "avalanche-2",
+  "pons",
+  "soon-2"
  ],
  "wallets": {}
 }
