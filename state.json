@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790753137,
+ "last_cg": 1790754249,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "lighter",
   "quant-network",
+  "moonriver",
   "pudgy-penguins",
   "pump-fun",
-  "moonriver",
-  "layerzero",
   "concordium",
+  "layerzero",
   "near",
-  "derive",
-  "pons",
-  "hedera-hashgraph",
-  "aave",
   "bitcoin",
+  "hedera-hashgraph",
   "chainlink",
-  "bittensor"
+  "aave",
+  "derive",
+  "bittensor",
+  "pons"
  ],
  "wallets": {}
 }
