@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790759718,
+ "last_cg": 1790760912,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "moonriver",
   "lighter",
   "grass",
+  "near",
+  "ethena",
+  "pudgy-penguins",
   "layerzero",
   "ondo-finance",
-  "near",
-  "pudgy-penguins",
-  "sui",
-  "aster-2",
   "solana",
-  "ethena",
   "avalanche-2",
+  "aster-2",
+  "internet-computer",
   "pons",
-  "soon-2"
+  "fetch-ai"
  ],
  "wallets": {}
 }
