@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790757672,
+ "last_cg": 1790758613,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "moonriver",
+  "lighter",
+  "grass",
   "pudgy-penguins",
   "layerzero",
-  "grass",
-  "lighter",
+  "ondo-finance",
+  "solana",
+  "near",
   "aster-2",
   "sui",
-  "ondo-finance",
-  "concordium",
+  "internet-computer",
   "hedera-hashgraph",
-  "pons",
-  "near",
   "chainlink",
-  "pump-fun"
+  "avalanche-2"
  ],
  "wallets": {}
 }
