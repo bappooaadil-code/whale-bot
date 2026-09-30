@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790782656,
+ "last_cg": 1790783725,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -18,14 +18,14 @@
   "lighter",
   "pudgy-penguins",
   "backpack",
-  "ethena",
-  "sui",
-  "ondo-finance",
-  "pons",
   "pearl-2",
-  "bitcoin",
+  "ondo-finance",
+  "sui",
+  "grass",
+  "ethena",
   "hyperliquid",
-  "grass"
+  "pump-fun",
+  "stonk-3"
  ],
  "wallets": {}
 }
