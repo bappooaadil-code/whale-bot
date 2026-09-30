@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "akedo": 1790782656
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790793409,
+ "last_cg": 1790794538,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
-  "official-trump",
   "concordium",
+  "official-trump",
   "near",
   "edel",
   "lighter",
   "pudgy-penguins",
   "kinetiq",
   "hyperliquid",
-  "ethena",
   "ondo-finance",
+  "ethena",
   "stonk-3",
-  "grass",
-  "pearl-2",
-  "stellar"
+  "bitcoin",
+  "neuralai",
+  "solana"
  ],
  "wallets": {}
 }
