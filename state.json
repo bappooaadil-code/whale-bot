@@ -1,33 +1,31 @@
 {
  "cg_alerted": {
-  "akedo": 1790771596,
-  "bitway": 1790778952,
-  "quant-network": 1790771596,
-  "worldcoin-wld": 1790771596
+  "akedo": 1790782656,
+  "bitway": 1790778952
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790781376,
+ "last_cg": 1790782656,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "edel",
-  "near",
   "official-trump",
+  "near",
   "lighter",
+  "pudgy-penguins",
   "backpack",
   "ethena",
-  "pons",
-  "pudgy-penguins",
-  "aerodrome-finance",
-  "bitcoin",
   "sui",
-  "grass",
-  "chainlink",
-  "venice-token"
+  "ondo-finance",
+  "pons",
+  "pearl-2",
+  "bitcoin",
+  "hyperliquid",
+  "grass"
  ],
  "wallets": {}
 }
