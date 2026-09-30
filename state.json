@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790735950,
+ "last_cg": 1790736867,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,16 +15,16 @@
   "quant-network",
   "backpack",
   "near",
-  "grass",
-  "hedera-hashgraph",
-  "pons",
-  "concordium",
   "pump-fun",
-  "ribbita-by-virtuals",
+  "grass",
+  "pons",
   "pearl-2",
+  "sui",
+  "zcash",
+  "aster-2",
   "hyperliquid",
-  "ripple",
-  "sui"
+  "ribbita-by-virtuals",
+  "ondo-finance"
  ],
  "wallets": {}
 }
