@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790790053,
+ "last_cg": 1790790942,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -17,14 +17,14 @@
   "near",
   "lighter",
   "ondo-finance",
+  "backpack",
   "hyperliquid",
   "solana",
-  "pump-fun",
-  "venice-token",
   "concordium",
+  "venice-token",
+  "pump-fun",
   "sui",
-  "backpack",
-  "ethena"
+  "pearl-2"
  ],
  "wallets": {}
 }
