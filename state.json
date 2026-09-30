@@ -9,25 +9,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790774359,
+ "last_cg": 1790775411,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "near",
-  "pudgy-penguins",
   "official-trump",
+  "pudgy-penguins",
   "grass",
   "pons",
   "lighter",
   "avalanche-2",
+  "bitcoin",
   "moonriver",
   "zcash",
-  "hedera-hashgraph",
-  "ondo-finance",
-  "virtual-protocol",
   "pearl-2",
-  "aster-2"
+  "backpack",
+  "chainlink",
+  "bittensor"
  ],
  "wallets": {}
 }
