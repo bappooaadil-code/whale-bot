@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790807357,
+ "last_cg": 1790808388,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "concordium",
-  "edel",
   "official-trump",
-  "backpack",
-  "near",
+  "edel",
   "quant-network",
   "pudgy-penguins",
+  "backpack",
+  "near",
   "moonriver",
   "lighter",
-  "stonk-3",
+  "ondo-finance",
   "stellar",
-  "kinetiq",
+  "stonk-3",
   "chainlink",
-  "pons",
-  "ripple"
+  "kinetiq",
+  "pons"
  ],
  "wallets": {}
 }
