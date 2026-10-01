@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790889243,
+ "last_cg": 1790890342,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "revenue-family",
   "commander-vrax-3",
   "official-trump",
-  "near",
   "quant-network",
-  "monad",
-  "zcash",
-  "derive",
+  "near",
   "pudgy-penguins",
-  "superfarm",
+  "monad",
+  "derive",
+  "zcash",
   "backpack",
   "lighter",
-  "bitcoin",
+  "railgun",
   "kinetiq",
-  "solana"
+  "pump-fun",
+  "superfarm"
  ],
  "wallets": {}
 }
