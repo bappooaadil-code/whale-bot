@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790869364,
+ "last_cg": 1790870315,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,16 +15,16 @@
   "kinetiq",
   "quant-network",
   "backpack",
-  "monad",
   "pudgy-penguins",
+  "monad",
   "zcash",
-  "ondo-finance",
-  "sui",
   "bitcoin",
-  "lighter",
   "pons",
-  "injective-protocol",
-  "uniswap"
+  "ondo-finance",
+  "lighter",
+  "aave",
+  "my-neighbor-alice",
+  "injective-protocol"
  ],
  "wallets": {}
 }
