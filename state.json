@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790827059,
+ "last_cg": 1790828274,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "backpack",
   "monad",
+  "backpack",
   "quant-network",
   "concordium",
   "near",
-  "pudgy-penguins",
   "kinetiq",
+  "pudgy-penguins",
   "pump-fun",
   "plume",
-  "ondo-finance",
+  "stonk-3",
+  "pons",
   "ethena",
-  "sui",
-  "moonriver",
-  "pearl-2",
-  "raydium"
+  "ondo-finance",
+  "derive",
+  "dogecoin"
  ],
  "wallets": {}
 }
