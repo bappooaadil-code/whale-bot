@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790873520,
+ "last_cg": 1790874394,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "near",
   "megaeth",
   "monad",
-  "backpack",
+  "pudgy-penguins",
   "moonriver",
+  "backpack",
+  "official-trump",
   "quant-network",
   "bitcoin",
-  "pudgy-penguins",
   "kinetiq",
-  "official-trump",
   "venice-token",
+  "aerodrome-finance",
+  "hyperliquid",
   "pearl-2",
-  "zcash",
-  "sui",
-  "hyperliquid"
+  "ethereum"
  ],
  "wallets": {}
 }
