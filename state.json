@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790886237,
+ "last_cg": 1790887338,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "near",
   "official-trump",
   "monad",
+  "quant-network",
+  "commander-vrax-3",
   "backpack",
   "pudgy-penguins",
+  "derive",
   "venice-token",
   "pump-fun",
-  "zcash",
-  "derive",
-  "quant-network",
+  "kinetiq",
+  "pearl-2",
   "lighter",
-  "hyperliquid",
-  "megaeth",
-  "stonk-3"
+  "layerzero"
  ],
  "wallets": {}
 }
