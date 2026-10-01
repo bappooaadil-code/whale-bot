@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790894081,
+ "last_cg": 1790894999,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "commander-vrax-3",
   "official-trump",
   "near",
-  "quant-network",
-  "monad",
   "backpack",
+  "monad",
+  "quant-network",
+  "pudgy-penguins",
+  "zcash",
   "ripple",
-  "pons",
-  "derive",
   "aerodrome-finance",
-  "pepe",
-  "kinetiq",
-  "uniswap",
-  "zcash"
+  "hyperliquid",
+  "bitcoin",
+  "solana",
+  "ondo-finance"
  ],
  "wallets": {}
 }
