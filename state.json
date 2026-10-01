@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790816722,
+ "last_cg": 1790817906,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "edel",
   "official-trump",
-  "quant-network",
+  "concordium",
   "monad",
   "near",
-  "pudgy-penguins",
+  "quant-network",
   "backpack",
+  "pudgy-penguins",
   "lighter",
-  "bitcoin",
-  "sui",
   "pons",
-  "concordium",
+  "sui",
+  "aster-2",
   "pearl-2",
-  "solana",
-  "zcash"
+  "zcash",
+  "moonriver"
  ],
  "wallets": {}
 }
