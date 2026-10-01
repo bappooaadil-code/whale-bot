@@ -1,17 +1,15 @@
 {
- "cg_alerted": {
-  "midnight-3": 1790866232
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790876680,
+ "last_cg": 1790877572,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "official-trump",
   "near",
+  "official-trump",
   "megaeth",
   "quant-network",
   "monad",
@@ -20,11 +18,11 @@
   "moonriver",
   "ondo-finance",
   "kinetiq",
-  "ethereum",
-  "pudgy-penguins",
   "layerzero",
-  "grass",
-  "hyperliquid"
+  "ethereum",
+  "avalanche-2",
+  "pearl-2",
+  "solana"
  ],
  "wallets": {}
 }
