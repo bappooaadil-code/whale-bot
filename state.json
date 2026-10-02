@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790930470,
+ "last_cg": 1790931365,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "commander-vrax-3",
   "quant-network",
-  "near",
   "dolphin-2",
   "pudgy-penguins",
+  "near",
   "ethena",
   "the-sandbox",
-  "aave",
   "collector-crypt",
-  "backpack",
-  "pearl-2",
-  "aster-2",
+  "aave",
   "bitcoin",
+  "sui",
+  "venice-token",
   "ondo-finance",
-  "sui"
+  "solana",
+  "pump-fun"
  ],
  "wallets": {}
 }
