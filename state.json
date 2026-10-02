@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790983826,
+ "last_cg": 1790984697,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "official-trump",
   "edel",
   "super-cat",
-  "quant-network",
   "backpack",
-  "pons",
   "pudgy-penguins",
+  "pons",
   "near",
   "pump-fun",
-  "solana",
+  "quant-network",
   "velvet",
-  "ripple",
+  "solana",
+  "pearl-2",
+  "ondo-finance",
   "monad",
-  "pi-network",
-  "celestia"
+  "bitway"
  ],
  "wallets": {}
 }
