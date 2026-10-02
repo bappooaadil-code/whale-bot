@@ -1,14 +1,13 @@
 {
  "cg_alerted": {
-  "aave": 1790918323,
-  "pepe": 1790918323,
+  "midnight-3": 1790929452,
   "quant-network": 1790924883
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790927289,
+ "last_cg": 1790929452,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -16,17 +15,17 @@
   "quant-network",
   "dolphin-2",
   "near",
+  "ethena",
+  "pudgy-penguins",
+  "collector-crypt",
   "bitcoin",
   "aave",
-  "pudgy-penguins",
+  "the-sandbox",
+  "ondo-finance",
   "sui",
-  "pump-fun",
-  "ethena",
   "pi-network",
-  "ripple",
-  "thorchain",
-  "grass",
-  "solana"
+  "lighter",
+  "aptos"
  ],
  "wallets": {}
 }
