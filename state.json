@@ -1,31 +1,31 @@
 {
  "cg_alerted": {
   "bitway": 1790950952,
-  "midnight-3": 1790946226
+  "midnight-3": 1790957692
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790956609,
+ "last_cg": 1790957692,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "super-cat",
   "blast",
   "edel",
-  "near",
-  "official-trump",
-  "quant-network",
-  "bitcoin",
   "pudgy-penguins",
-  "backpack",
-  "zcash",
-  "layerzero",
-  "the-sandbox",
+  "quant-network",
+  "near",
+  "bitcoin",
+  "official-trump",
   "monad",
-  "pearl-2",
-  "collector-crypt"
+  "backpack",
+  "the-sandbox",
+  "collector-crypt",
+  "sky",
+  "fetch-ai",
+  "layerzero"
  ],
  "wallets": {}
 }
