@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790961925,
+ "last_cg": 1790962931,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,16 +15,16 @@
   "official-trump",
   "blast",
   "pudgy-penguins",
-  "monad",
-  "pump-fun",
-  "near",
+  "bitcoin",
   "quant-network",
   "worldcoin-wld",
-  "aave",
-  "pons",
-  "bitcoin",
+  "backpack",
+  "monad",
+  "collector-crypt",
+  "near",
   "the-sandbox",
-  "collector-crypt"
+  "stonk-3",
+  "pump-fun"
  ],
  "wallets": {}
 }
