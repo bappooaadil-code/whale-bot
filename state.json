@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790968578,
+ "last_cg": 1790969693,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "astronaut-2",
   "edel",
   "official-trump",
-  "blast",
-  "bitcoin",
-  "pudgy-penguins",
   "near",
-  "quant-network",
+  "bitcoin",
+  "blast",
+  "pons",
+  "pudgy-penguins",
   "chainlink",
-  "sky",
-  "pearl-2",
-  "the-sandbox",
+  "bittensor",
   "monad",
-  "pump-fun"
+  "aerodrome-finance",
+  "aethir",
+  "quant-network"
  ],
  "wallets": {}
 }
