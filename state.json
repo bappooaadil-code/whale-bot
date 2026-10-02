@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790905143,
+ "last_cg": 1790906073,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,15 +14,15 @@
   "quant-network",
   "near",
   "pudgy-penguins",
-  "monad",
-  "aave",
-  "moonriver",
-  "pons",
-  "backpack",
-  "derive",
   "pump-fun",
+  "aave",
+  "monad",
+  "moonriver",
+  "backpack",
+  "bittensor",
+  "solana",
   "pearl-2",
-  "solana"
+  "ripple"
  ],
  "wallets": {}
 }
