@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "midnight-3": 1790929452,
-  "quant-network": 1790924883
+  "midnight-3": 1790929452
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790934717,
+ "last_cg": 1790936602,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "the-sandbox",
+  "official-trump",
+  "edel",
+  "near",
+  "pudgy-penguins",
   "quant-network",
   "commander-vrax-3",
-  "official-trump",
-  "near",
   "ethena",
-  "edel",
-  "collector-crypt",
-  "dolphin-2",
-  "bitcoin",
-  "pudgy-penguins",
-  "aave",
+  "monad",
+  "kaspa",
+  "enjincoin",
+  "sui",
   "decentraland",
-  "peaq-2",
-  "canton-network"
+  "sky",
+  "aave"
  ],
  "wallets": {}
 }
