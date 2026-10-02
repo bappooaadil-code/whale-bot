@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790955626,
+ "last_cg": 1790956609,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "super-cat",
   "blast",
+  "edel",
   "near",
   "official-trump",
-  "edel",
   "quant-network",
   "bitcoin",
-  "backpack",
   "pudgy-penguins",
+  "backpack",
   "zcash",
-  "the-sandbox",
   "layerzero",
-  "collector-crypt",
-  "ondo-finance",
-  "monad"
+  "the-sandbox",
+  "monad",
+  "pearl-2",
+  "collector-crypt"
  ],
  "wallets": {}
 }
