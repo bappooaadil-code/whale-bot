@@ -1,28 +1,31 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "aave": 1790918323,
+  "pepe": 1790918323
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790916357,
+ "last_cg": 1790918323,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "revenue-family",
+  "dolphin-2",
   "commander-vrax-3",
   "quant-network",
-  "near",
-  "talus",
-  "derive",
-  "backpack",
-  "lighter",
-  "monad",
   "pudgy-penguins",
-  "collector-crypt",
+  "monad",
+  "talus",
   "bitcoin",
   "ethena",
-  "pearl-2",
-  "sei-network"
+  "near",
+  "backpack",
+  "aerodrome-finance",
+  "pi-network",
+  "zcash",
+  "lighter"
  ],
  "wallets": {}
 }
