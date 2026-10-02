@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "quant-network": 1790943932
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790941668,
+ "last_cg": 1790943932,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "super-cat",
+  "edel",
+  "quant-network",
   "official-trump",
   "the-sandbox",
-  "edel",
+  "ethena",
   "pudgy-penguins",
   "near",
-  "quant-network",
   "aave",
+  "ethereum",
   "sui",
-  "ethena",
   "bitcoin",
   "ondo-finance",
-  "solana",
-  "layerzero",
-  "backpack",
-  "decentraland"
+  "lighter",
+  "hyperliquid"
  ],
  "wallets": {}
 }
