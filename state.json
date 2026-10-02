@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790918323,
+ "last_cg": 1790919328,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "dolphin-2",
   "commander-vrax-3",
   "quant-network",
-  "pudgy-penguins",
-  "monad",
-  "talus",
   "bitcoin",
-  "ethena",
+  "pudgy-penguins",
   "near",
-  "backpack",
-  "aerodrome-finance",
-  "pi-network",
+  "ethena",
+  "monad",
+  "pearl-2",
+  "talus",
+  "solana",
+  "lighter",
   "zcash",
-  "lighter"
+  "backpack"
  ],
  "wallets": {}
 }
