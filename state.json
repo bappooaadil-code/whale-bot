@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1791010996,
   "rain": 1791015371
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791020760,
+ "last_cg": 1791022540,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quant-network",
   "the-sandbox",
   "pump-fun",
-  "blast",
-  "near",
   "lighter",
-  "solana",
-  "gala",
-  "layerzero",
   "backpack",
-  "aave",
-  "pons",
-  "decentraland",
   "pudgy-penguins",
-  "pearl-2"
+  "grass",
+  "layerzero",
+  "bittensor",
+  "pearl-2",
+  "chainlink",
+  "uniswap",
+  "virtual-protocol",
+  "near",
+  "gala"
  ],
  "wallets": {}
 }
