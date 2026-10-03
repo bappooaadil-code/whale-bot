@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791015371,
+ "last_cg": 1791016456,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "the-sandbox",
   "gala",
   "decentraland",
-  "lighter",
   "quant-network",
+  "lighter",
+  "pons",
   "bittensor",
   "near",
+  "pi-network",
+  "sky",
   "bitcoin",
-  "pearl-2",
-  "pump-fun",
-  "backpack",
-  "pons",
   "blast",
-  "chainlink",
-  "ondo-finance"
+  "backpack",
+  "render-token",
+  "layerzero"
  ],
  "wallets": {}
 }
