@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "layerzero": 1791025692,
   "rain": 1791015371
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791023774,
+ "last_cg": 1791025692,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "messier",
   "quant-network",
   "the-sandbox",
   "backpack",
-  "layerzero",
+  "pons",
   "lighter",
-  "pearl-2",
-  "pudgy-penguins",
+  "layerzero",
+  "sui",
+  "bitcoin",
+  "fetch-ai",
+  "collector-crypt",
   "grass",
   "pump-fun",
-  "gala",
-  "bittensor",
-  "chainlink",
-  "derive",
-  "worldcoin-wld",
-  "sui"
+  "blast",
+  "pepe"
  ],
  "wallets": {}
 }
