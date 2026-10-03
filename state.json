@@ -1,28 +1,31 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "quant-network": 1790986729,
+  "rain": 1790986729
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790984697,
+ "last_cg": 1790986729,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "official-trump",
-  "edel",
   "super-cat",
+  "edel",
   "backpack",
-  "pudgy-penguins",
   "pons",
+  "pudgy-penguins",
   "near",
   "pump-fun",
-  "quant-network",
-  "velvet",
-  "solana",
-  "pearl-2",
-  "ondo-finance",
+  "bitcoin",
+  "stonk-3",
   "monad",
-  "bitway"
+  "worldcoin-wld",
+  "zcash",
+  "pearl-2",
+  "lighter"
  ],
  "wallets": {}
 }
