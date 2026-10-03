@@ -9,7 +9,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1790994034,
+ "last_cg": 1790995527,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -17,17 +17,17 @@
   "edel",
   "pudgy-penguins",
   "bitcoin",
-  "solana",
-  "stonk-3",
-  "pons",
-  "near",
-  "quant-network",
-  "zcash",
-  "collector-crypt",
-  "aerodrome-finance",
-  "ripple",
   "backpack",
-  "pump-fun"
+  "solana",
+  "collector-crypt",
+  "pons",
+  "quant-network",
+  "near",
+  "aerodrome-finance",
+  "lighter",
+  "blast",
+  "zcash",
+  "aave"
  ],
  "wallets": {}
 }
