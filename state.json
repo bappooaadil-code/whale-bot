@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791181639,
+ "last_cg": 1791183348,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hood-inu",
-  "agent-cat",
   "pudgy-penguins",
-  "fetch-ai",
+  "agent-cat",
   "bitcoin",
-  "pons",
+  "fetch-ai",
   "lighter",
+  "grass",
+  "pons",
   "nillion",
   "near",
+  "cardano",
+  "venice-token",
   "virtual-protocol",
-  "backpack",
-  "zcash",
-  "grass",
   "quant-network",
-  "bittensor"
+  "pump-fun"
  ],
  "wallets": {}
 }
