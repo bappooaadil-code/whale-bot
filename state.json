@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1791177373
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791175763,
+ "last_cg": 1791177373,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "fetch-ai",
   "pudgy-penguins",
-  "pons",
-  "ethena",
   "quant-network",
-  "near",
-  "pump-fun",
-  "bitcoin",
-  "starknet",
-  "grass",
-  "bittensor",
-  "sui",
-  "lighter",
+  "pons",
   "backpack",
-  "arbitrum"
+  "bitcoin",
+  "near",
+  "starknet",
+  "ethena",
+  "bittensor",
+  "pump-fun",
+  "grass",
+  "aerodrome-finance",
+  "geodnet",
+  "ondo-finance"
  ],
  "wallets": {}
 }
