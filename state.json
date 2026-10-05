@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791172668,
+ "last_cg": 1791173960,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "fetch-ai",
   "pudgy-penguins",
+  "pump-fun",
+  "pons",
   "grass",
   "bitcoin",
+  "lighter",
+  "ethena",
   "sui",
-  "pump-fun",
-  "monad",
+  "near",
   "pearl-2",
   "derive",
-  "ondo-finance",
   "quant-network",
-  "ripple",
-  "pons",
-  "shiba-inu",
-  "uniswap"
+  "starknet",
+  "ondo-finance"
  ],
  "wallets": {}
 }
