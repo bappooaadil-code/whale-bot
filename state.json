@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "sky": 1791202864
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791213381,
+ "last_cg": 1791214743,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hood-inu",
   "agent-cat",
   "super-inu-force",
-  "pudgy-penguins",
   "edel",
-  "bitcoin",
-  "near",
-  "fetch-ai",
-  "bittensor",
-  "quant-network",
+  "pudgy-penguins",
   "ethena",
-  "solana",
-  "aerodrome-finance",
+  "pons",
+  "bitcoin",
+  "pearl-2",
+  "arbitrum",
+  "zcash",
   "lighter",
-  "pons"
+  "bonk",
+  "canton-network",
+  "near"
  ],
  "wallets": {}
 }
