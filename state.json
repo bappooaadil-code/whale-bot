@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791293266,
+ "last_cg": 1791294473,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "iexec-rlc",
   "numeraire",
   "near",
-  "ether-fi",
   "ethena",
+  "pudgy-penguins",
   "layerzero",
-  "okb",
+  "ether-fi",
+  "cap-4",
   "monad",
-  "quant-network",
-  "zcash",
+  "okb",
+  "hyperliquid",
+  "bitcoin",
   "ondo-finance",
-  "avalanche-2",
-  "stonk-3",
   "pearl-2",
-  "pudgy-penguins"
+  "zcash"
  ],
  "wallets": {}
 }
