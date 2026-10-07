@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791379325,
+ "last_cg": 1791380459,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "pearl-2",
   "quantus",
   "raydium",
+  "pudgy-penguins",
   "near",
   "sui",
   "quant-network",
-  "pudgy-penguins",
-  "monad",
   "bitcoin",
   "pump-fun",
+  "aerodrome-finance",
   "pons",
-  "ripple",
-  "lighter",
-  "layerzero",
-  "aerodrome-finance"
+  "monad",
+  "backpack",
+  "zcash",
+  "polygon-ecosystem-token"
  ],
  "wallets": {}
 }
