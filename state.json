@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791390712,
+ "last_cg": 1791391935,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "official-trump",
   "pearl-2",
   "pons",
-  "quantus",
   "bitcoin",
-  "sui",
+  "quantus",
   "pudgy-penguins",
+  "sui",
   "near",
-  "pump-fun",
   "raydium",
   "derive",
-  "solana",
-  "backpack",
-  "injective-protocol"
+  "monad",
+  "the-sandbox",
+  "quant-network",
+  "backpack"
  ],
  "wallets": {}
 }
