@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791391935,
+ "last_cg": 1791393329,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "official-trump",
   "pearl-2",
   "pons",
-  "bitcoin",
   "quantus",
-  "pudgy-penguins",
-  "sui",
   "near",
-  "raydium",
-  "derive",
-  "monad",
-  "the-sandbox",
+  "pudgy-penguins",
   "quant-network",
-  "backpack"
+  "raydium",
+  "bitcoin",
+  "monad",
+  "hunter-biden-s-laptop-3",
+  "backpack",
+  "jupiter-exchange-solana",
+  "sui"
  ],
  "wallets": {}
 }
