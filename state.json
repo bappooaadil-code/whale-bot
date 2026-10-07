@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791371601,
+ "last_cg": 1791372794,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "pearl-2",
-  "quantus",
   "near",
+  "quantus",
   "sui",
   "bitcoin",
   "ethereum",
-  "zcash",
   "pudgy-penguins",
-  "ondo-finance",
-  "pump-fun",
+  "zcash",
   "bittensor",
-  "orca",
+  "lighter",
   "pons",
-  "monad",
-  "grass"
+  "ondo-finance",
+  "layerzero",
+  "pump-fun",
+  "uniswap"
  ],
  "wallets": {}
 }
