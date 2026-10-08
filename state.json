@@ -1,12 +1,10 @@
 {
- "cg_alerted": {
-  "pyth-network": 1791488703
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791498835,
+ "last_cg": 1791499920,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +12,17 @@
   "derive",
   "quantus",
   "near",
-  "pudgy-penguins",
-  "pons",
   "zcash",
-  "bitcoin",
-  "quant-network",
-  "sui",
   "pearl-2",
-  "monad",
-  "jupiter-exchange-solana",
+  "pudgy-penguins",
+  "sui",
+  "ethereum",
+  "pons",
+  "official-trump",
+  "bitcoin",
   "pyth-network",
-  "peaq-2"
+  "starknet",
+  "jupiter-exchange-solana"
  ],
  "wallets": {}
 }
