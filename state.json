@@ -9,7 +9,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791491025,
+ "last_cg": 1791492195,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -18,16 +18,16 @@
   "celestia",
   "near",
   "derive",
-  "quantus",
   "zcash",
+  "quantus",
   "pyth-network",
-  "pudgy-penguins",
+  "avalanche-2",
   "ondo-finance",
-  "bitcoin",
+  "aerodrome-finance",
   "pearl-2",
-  "sui",
-  "backpack",
-  "pons"
+  "uniswap",
+  "pudgy-penguins",
+  "bitcoin"
  ],
  "wallets": {}
 }
