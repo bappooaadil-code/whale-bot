@@ -1,12 +1,13 @@
 {
  "cg_alerted": {
-  "akedo": 1791459440
+  "akedo": 1791459440,
+  "venice-token": 1791464710
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791463416,
+ "last_cg": 1791464710,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +15,17 @@
   "quantus",
   "official-trump",
   "starknet",
-  "pearl-2",
   "meteora",
-  "pudgy-penguins",
+  "pearl-2",
+  "raydium",
+  "near",
   "origin-protocol",
-  "zcash",
-  "algorand",
   "quant-network",
-  "jupiter-exchange-solana",
-  "ondo-finance",
-  "hyperliquid",
-  "near"
+  "zcash",
+  "venice-token",
+  "pump-fun",
+  "bitcoin",
+  "algorand"
  ],
  "wallets": {}
 }
