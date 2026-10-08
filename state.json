@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791456030,
+ "last_cg": 1791457054,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "super-intelligent-identity",
   "quantus",
+  "official-trump",
+  "near",
   "pearl-2",
   "starknet",
+  "pons",
   "pudgy-penguins",
   "algorand",
-  "near",
   "meteora",
-  "pons",
-  "bitcoin",
   "solana",
-  "jupiter-exchange-solana",
-  "sui",
-  "zcash",
-  "ondo-finance"
+  "monad",
+  "bitcoin",
+  "ondo-finance",
+  "wormhole"
  ],
  "wallets": {}
 }
