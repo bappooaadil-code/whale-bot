@@ -1,14 +1,12 @@
 {
  "cg_alerted": {
-  "ondo-finance": 1791487544,
-  "pyth-network": 1791488703,
-  "quant-network": 1791487544
+  "pyth-network": 1791488703
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791497636,
+ "last_cg": 1791498835,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -16,17 +14,17 @@
   "derive",
   "quantus",
   "near",
-  "official-trump",
-  "bitcoin",
-  "zcash",
-  "quant-network",
-  "ethereum",
-  "pearl-2",
+  "pudgy-penguins",
   "pons",
-  "backpack",
+  "zcash",
+  "bitcoin",
+  "quant-network",
+  "sui",
+  "pearl-2",
   "monad",
+  "jupiter-exchange-solana",
   "pyth-network",
-  "starknet"
+  "peaq-2"
  ],
  "wallets": {}
 }
