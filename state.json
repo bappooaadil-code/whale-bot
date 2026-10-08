@@ -2,6 +2,7 @@
  "cg_alerted": {
   "aerodrome-finance": 1791475599,
   "akedo": 1791475599,
+  "aptos": 1791486279,
   "arbitrum": 1791475599,
   "avalanche-2": 1791475599,
   "bitcoin-cash": 1791475599,
@@ -39,25 +40,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791485339,
+ "last_cg": 1791486279,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "super-intelligent-identity",
   "official-trump",
-  "derive",
-  "quantus",
   "near",
   "pearl-2",
+  "quantus",
   "bitcoin",
-  "bittensor",
-  "pons",
-  "sui",
-  "pudgy-penguins",
+  "derive",
   "zcash",
-  "jupiter-exchange-solana",
-  "quant-network",
-  "ondo-finance"
+  "pons",
+  "pyth-network",
+  "ondo-finance",
+  "ethena",
+  "pudgy-penguins",
+  "bittensor",
+  "venice-token"
  ],
  "wallets": {}
 }
