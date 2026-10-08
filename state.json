@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791447462,
+ "last_cg": 1791448770,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quantus",
+  "astronaut-2",
   "meteora",
   "near",
-  "jupiter-exchange-solana",
   "pearl-2",
   "pons",
-  "pudgy-penguins",
-  "pump-fun",
+  "jupiter-exchange-solana",
   "bitcoin",
+  "zcash",
+  "pump-fun",
+  "pudgy-penguins",
   "solana",
   "bittensor",
-  "stonk-3",
-  "beldex",
-  "sui",
-  "quant-network"
+  "starknet",
+  "stonk-3"
  ],
  "wallets": {}
 }
