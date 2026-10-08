@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791426316,
+ "last_cg": 1791427375,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "inu-wif-sword",
   "quantus",
-  "official-trump",
   "pudgy-penguins",
+  "official-trump",
   "pearl-2",
-  "stonk-3",
   "bitcoin",
+  "stonk-3",
+  "jupiter-exchange-solana",
   "orca",
+  "monad",
   "pons",
+  "cash-cat",
   "near",
-  "meteora",
-  "solana",
-  "backpack",
-  "quant-network",
-  "wormhole"
+  "sui",
+  "meteora"
  ],
  "wallets": {}
 }
