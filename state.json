@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791554592,
+ "last_cg": 1791556026,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "derive",
   "official-trump",
-  "quantus",
   "pearl-2",
   "starknet",
   "backpack",
   "zcash",
-  "solana",
-  "hyperliquid",
-  "bitcoin",
   "pudgy-penguins",
+  "quantus",
+  "hyperliquid",
+  "solana",
+  "near",
+  "grass",
   "quant-network",
   "iexec-rlc",
-  "grass",
-  "near"
+  "raydium"
  ],
  "wallets": {}
 }
