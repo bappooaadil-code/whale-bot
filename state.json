@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791508480,
+ "last_cg": 1791509792,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "super-intelligent-identity",
   "derive",
+  "super-intelligent-identity",
   "official-trump",
   "quantus",
   "bitcoin",
-  "pons",
   "pudgy-penguins",
-  "backpack",
   "starknet",
-  "pearl-2",
-  "sui",
-  "pump-fun",
   "bittensor",
+  "sui",
+  "backpack",
+  "pyth-network",
+  "pons",
+  "pearl-2",
   "ethereum",
-  "venice-token"
+  "ondo-finance"
  ],
  "wallets": {}
 }
