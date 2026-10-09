@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791549556,
+ "last_cg": 1791550885,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "official-trump",
   "starknet",
+  "quantus",
   "derive",
   "backpack",
-  "quantus",
+  "pudgy-penguins",
   "bitcoin",
   "grass",
-  "doppler-finance",
-  "pearl-2",
   "pons",
-  "pudgy-penguins",
-  "sui",
-  "zcash",
   "near",
-  "quant-network"
+  "hyperliquid",
+  "sui",
+  "pearl-2",
+  "zcash",
+  "collector-crypt"
  ],
  "wallets": {}
 }
