@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791510857,
+ "last_cg": 1791511810,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "derive",
   "official-trump",
   "starknet",
-  "bitcoin",
   "quantus",
-  "sui",
-  "pudgy-penguins",
-  "pearl-2",
-  "backpack",
+  "bitcoin",
   "bittensor",
-  "pyth-network",
-  "pons",
+  "sui",
+  "backpack",
+  "pudgy-penguins",
+  "near",
   "hyperliquid",
-  "quant-network"
+  "solana",
+  "quant-network",
+  "ondo-finance"
  ],
  "wallets": {}
 }
