@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791535691,
+ "last_cg": 1791536577,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "starknet",
   "derive",
-  "bitcoin",
   "kaia",
+  "bitcoin",
   "quantus",
   "backpack",
   "near",
-  "iexec-rlc",
-  "pudgy-penguins",
-  "pearl-2",
   "pump-fun",
+  "pudgy-penguins",
+  "iexec-rlc",
+  "cosmos",
   "pyth-network",
-  "hyperliquid",
-  "sui",
-  "jupiter-exchange-solana"
+  "grass",
+  "ondo-finance",
+  "quant-network"
  ],
  "wallets": {}
 }
