@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "starknet": 1791645058
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791654691,
+ "last_cg": 1791656681,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "starknet",
-  "pudgy-penguins",
   "official-trump",
+  "near",
+  "bittensor",
+  "pearl-2",
+  "zcash",
+  "pudgy-penguins",
+  "hyperliquid",
+  "backpack",
+  "sui",
   "quantus",
   "derive",
-  "near",
-  "hyperliquid",
   "venice-token",
-  "pearl-2",
-  "backpack",
-  "zcash",
-  "sui",
-  "aerodrome-finance",
-  "bittensor"
+  "quant-network"
  ],
  "wallets": {}
 }
