@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791610206,
+ "last_cg": 1791611252,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "starknet",
+  "derive",
   "near",
   "magic",
   "quantus",
   "pudgy-penguins",
   "sui",
-  "derive",
-  "aptos",
+  "solana",
   "quant-network",
   "ondo-finance",
-  "bittensor",
-  "basic-attention-token",
-  "bitcoin",
-  "zcash",
-  "optimism"
+  "pump-fun",
+  "aptos",
+  "pons",
+  "pearl-2",
+  "lighter"
  ],
  "wallets": {}
 }
