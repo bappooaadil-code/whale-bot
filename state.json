@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "filecoin": 1791602521
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791600564,
+ "last_cg": 1791602521,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "magic",
   "derive",
   "quantus",
   "pudgy-penguins",
-  "bitcoin",
-  "starknet",
-  "magic",
   "near",
+  "starknet",
   "backpack",
+  "bitcoin",
+  "pearl-2",
+  "injective-protocol",
   "uniswap",
-  "monad",
-  "zcash",
-  "optimism",
-  "pump-fun",
-  "ethena",
-  "injective-protocol"
+  "chainlink",
+  "hyperliquid",
+  "venice-token",
+  "pump-fun"
  ],
  "wallets": {}
 }
