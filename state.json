@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "filecoin": 1791602521
+  "midnight-3": 1791613493
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791611252,
+ "last_cg": 1791613493,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "starknet",
   "derive",
-  "near",
-  "magic",
+  "starknet",
   "quantus",
   "pudgy-penguins",
+  "magic",
+  "kaspa",
+  "near",
   "sui",
-  "solana",
-  "quant-network",
-  "ondo-finance",
-  "pump-fun",
-  "aptos",
-  "pons",
   "pearl-2",
-  "lighter"
+  "quant-network",
+  "basic-attention-token",
+  "pump-fun",
+  "ondo-finance",
+  "polkadot",
+  "solana"
  ],
  "wallets": {}
 }
