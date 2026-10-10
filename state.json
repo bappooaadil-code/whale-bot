@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791665480,
+ "last_cg": 1791667259,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "starknet",
-  "official-trump",
   "swarm-engine",
+  "official-trump",
   "celestia",
-  "pudgy-penguins",
-  "lighter",
-  "grass",
   "quantus",
+  "pudgy-penguins",
+  "grass",
   "aerodrome-finance",
-  "sui",
   "near",
   "chip-2",
   "derive",
-  "zcash",
-  "backpack"
+  "sui",
+  "lighter",
+  "backpack",
+  "zksync"
  ],
  "wallets": {}
 }
