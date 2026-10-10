@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791620952,
+ "last_cg": 1791622048,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "near",
   "derive",
+  "pudgy-penguins",
   "zcash",
-  "magic",
   "lumia",
   "pearl-2",
-  "pudgy-penguins",
-  "bitcoin",
-  "starknet",
+  "ethena",
+  "magic",
+  "quantus",
   "chainlink",
   "monad",
+  "polygon-ecosystem-token",
   "quant-network",
-  "pons",
-  "aztec"
+  "starknet"
  ],
  "wallets": {}
 }
