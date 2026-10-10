@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791674880,
+ "last_cg": 1791675853,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "official-trump",
   "starknet",
   "quantus",
-  "pudgy-penguins",
-  "aerodrome-finance",
   "celestia",
+  "aerodrome-finance",
+  "pudgy-penguins",
   "near",
+  "solana",
   "hyperliquid",
-  "quant-network",
-  "backpack",
-  "bitcoin",
-  "chip-2",
+  "syrup",
+  "jito-governance-token",
   "zcash",
-  "derive"
+  "bittensor",
+  "quant-network"
  ],
  "wallets": {}
 }
