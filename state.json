@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791637330,
+ "last_cg": 1791638471,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "official-trump",
   "bitcoin",
-  "ondo-finance",
   "pudgy-penguins",
-  "starknet",
+  "ondo-finance",
   "quantus",
   "near",
-  "derive",
-  "sui",
+  "starknet",
   "hyperliquid",
+  "derive",
   "worldcoin-wld",
-  "basic-attention-token",
-  "pearl-2",
-  "ripple"
+  "sui",
+  "aave",
+  "lighter",
+  "aerodrome-finance"
  ],
  "wallets": {}
 }
