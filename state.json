@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791704177,
+ "last_cg": 1791705171,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "starknet",
   "near",
-  "aerodrome-finance",
   "zcash",
-  "lighter",
   "quantus",
-  "celestia",
-  "bitcoin",
   "pearl-2",
-  "derive",
-  "layerzero",
   "pudgy-penguins",
+  "celestia",
   "nervos-network",
-  "collector-crypt"
+  "aerodrome-finance",
+  "sui",
+  "derive",
+  "bittensor",
+  "bitcoin",
+  "solana"
  ],
  "wallets": {}
 }
