@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "starknet": 1791685058
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791694772,
+ "last_cg": 1791695945,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "starknet",
-  "near",
   "quantus",
   "celestia",
-  "pudgy-penguins",
-  "aerodrome-finance",
   "fetch-ai",
-  "collector-crypt",
-  "derive",
+  "near",
+  "aerodrome-finance",
+  "pudgy-penguins",
   "bitcoin",
+  "derive",
+  "jupiter-exchange-solana",
+  "solana",
   "lumia",
-  "pearl-2",
   "quant-network",
-  "pepe"
+  "sui"
  ],
  "wallets": {}
 }
