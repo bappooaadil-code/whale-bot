@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1791703004
+  "bitway": 1791714496
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791713360,
+ "last_cg": 1791714496,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "swarm-engine",
   "starknet",
+  "swarm-engine",
+  "quantus",
   "near",
   "bitcoin",
   "aerodrome-finance",
-  "quantus",
   "zcash",
-  "pudgy-penguins",
-  "pyth-network",
+  "ethena",
+  "stonk-3",
+  "celestia",
+  "arbitrum",
   "ethereum",
-  "solana",
-  "derive",
-  "aptos",
-  "ondo-finance",
-  "grass"
+  "grass",
+  "lumia",
+  "layerzero"
  ],
  "wallets": {}
 }
