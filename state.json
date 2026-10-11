@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791693867,
+ "last_cg": 1791694772,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "swarm-engine",
   "starknet",
-  "celestia",
   "near",
   "quantus",
+  "celestia",
   "pudgy-penguins",
-  "bitcoin",
   "aerodrome-finance",
+  "fetch-ai",
   "collector-crypt",
-  "sui",
-  "injective-protocol",
   "derive",
-  "bittensor",
+  "bitcoin",
   "lumia",
-  "chip-2"
+  "pearl-2",
+  "quant-network",
+  "pepe"
  ],
  "wallets": {}
 }
