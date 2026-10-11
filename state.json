@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791692689,
+ "last_cg": 1791693867,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -16,15 +16,15 @@
   "near",
   "quantus",
   "pudgy-penguins",
-  "aerodrome-finance",
   "bitcoin",
-  "pi-network",
-  "derive",
-  "aave",
-  "raydium",
-  "polkadot",
+  "aerodrome-finance",
+  "collector-crypt",
+  "sui",
   "injective-protocol",
-  "sui"
+  "derive",
+  "bittensor",
+  "lumia",
+  "chip-2"
  ],
  "wallets": {}
 }
