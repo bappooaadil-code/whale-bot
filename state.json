@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791835390,
+ "last_cg": 1791836722,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "pearl-2",
   "near",
   "sonic-3",
-  "quantus",
-  "aerodrome-finance",
+  "bitcoin",
   "wormhole",
   "venice-token",
-  "bitcoin",
-  "pudgy-penguins",
-  "backpack",
-  "pons",
+  "quantus",
+  "pump-fun",
+  "aerodrome-finance",
   "ethena",
+  "starknet",
+  "grass",
   "blockstack",
-  "starknet"
+  "backpack"
  ],
  "wallets": {}
 }
