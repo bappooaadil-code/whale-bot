@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791795210,
+ "last_cg": 1791796292,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -13,15 +13,15 @@
   "layerzero",
   "near",
   "quantus",
-  "pudgy-penguins",
   "starknet",
-  "reserve-rights-token",
+  "pudgy-penguins",
   "grass",
+  "reserve-rights-token",
   "derive",
   "plume",
   "hyperliquid",
-  "aerodrome-finance",
   "pearl-2",
+  "aerodrome-finance",
   "bittensor"
  ],
  "wallets": {}
