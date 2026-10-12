@@ -1,32 +1,31 @@
 {
  "cg_alerted": {
   "layerzero": 1791782033,
-  "starknet": 1791775630,
   "zcash": 1791782033
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791786006,
+ "last_cg": 1791787954,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "bunker-mode",
+  "grass",
   "wormhole",
   "reserve-rights-token",
-  "grass",
+  "quantus",
   "near",
   "starknet",
-  "quantus",
+  "bitcoin",
   "sui",
-  "internet-computer",
-  "pearl-2",
-  "backpack",
+  "derive",
+  "plume",
+  "sonic-3",
   "ondo-finance",
-  "hyperliquid",
   "zcash",
-  "derive"
+  "solana"
  ],
  "wallets": {}
 }
