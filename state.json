@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791823971,
+ "last_cg": 1791824895,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "wormhole",
   "starknet",
   "pearl-2",
-  "pudgy-penguins",
   "near",
   "quantus",
+  "pudgy-penguins",
   "layerzero",
   "grass",
   "pyth-network",
+  "official-trump",
+  "sonic-3",
   "quant-network",
   "pons",
-  "hyperliquid",
-  "lighter",
-  "sonic-3"
+  "reserve-rights-token"
  ],
  "wallets": {}
 }
