@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
-  "figure-heloc": 1791821478
+  "figure-heloc": 1791821478,
+  "starknet": 1791829604
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791827412,
+ "last_cg": 1791829604,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "bunker-mode",
-  "official-trump",
   "near",
+  "wormhole",
   "starknet",
   "quantus",
-  "wormhole",
-  "reserve-rights-token",
-  "bitcoin",
-  "quant-network",
-  "layerzero",
-  "aerodrome-finance",
+  "pudgy-penguins",
+  "pons",
   "grass",
-  "kled-ai",
+  "bitcoin",
+  "official-trump",
+  "pearl-2",
+  "aave",
+  "layerzero",
   "derive",
-  "sui"
+  "aerodrome-finance"
  ],
  "wallets": {}
 }
