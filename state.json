@@ -1,12 +1,14 @@
 {
  "cg_alerted": {
-  "starknet": 1791775630
+  "layerzero": 1791782033,
+  "starknet": 1791775630,
+  "zcash": 1791782033
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791780920,
+ "last_cg": 1791782033,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -17,14 +19,14 @@
   "near",
   "quantus",
   "starknet",
-  "pearl-2",
-  "celestia",
-  "story-2",
-  "meteora",
   "zcash",
-  "chainlink",
+  "pearl-2",
+  "layerzero",
+  "reserve-rights-token",
   "rhea-2",
-  "fetch-ai"
+  "bitcoin",
+  "solana",
+  "injective-protocol"
  ],
  "wallets": {}
 }
