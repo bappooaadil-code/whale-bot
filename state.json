@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "blockstack": 1791835390
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791845643,
+ "last_cg": 1791846577,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quantus",
-  "starknet",
-  "bunker-mode",
   "pearl-2",
-  "pudgy-penguins",
-  "dappos",
-  "pump-fun",
-  "near",
+  "starknet",
   "bitcoin",
-  "layerzero",
-  "derive",
+  "pudgy-penguins",
+  "near",
+  "bunker-mode",
+  "pump-fun",
+  "dappos",
   "quant-network",
-  "bittensor",
+  "ethena",
+  "ethereum",
   "hyperliquid",
-  "ethereum"
+  "aster-2",
+  "backpack"
  ],
  "wallets": {}
 }
