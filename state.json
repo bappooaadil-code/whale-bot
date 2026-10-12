@@ -7,7 +7,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791790952,
+ "last_cg": 1791792181,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +15,17 @@
   "bunker-mode",
   "near",
   "starknet",
-  "quantus",
-  "pudgy-penguins",
   "reserve-rights-token",
+  "pudgy-penguins",
+  "quantus",
+  "solana",
   "pearl-2",
-  "grass",
-  "zcash",
-  "sonic-3",
-  "ethena",
   "io",
-  "plume",
-  "pump-fun"
+  "grass",
+  "ethena",
+  "layerzero",
+  "aerodrome-finance",
+  "zcash"
  ],
  "wallets": {}
 }
