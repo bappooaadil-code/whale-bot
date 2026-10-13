@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "quant-network": 1791918243
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791927503,
+ "last_cg": 1791929181,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "wisp-2",
   "doge-pepe",
-  "zylo-ecosystem",
   "crawlerpad",
+  "zylo-ecosystem",
   "basic-attention-token",
+  "pudgy-penguins",
   "pearl-2",
-  "wormhole",
+  "quant-network",
+  "bitcoin",
   "quantus",
-  "near",
-  "canton-network",
-  "sonic-3",
-  "uniswap",
-  "aave",
-  "jupiter-exchange-solana",
-  "syrup"
+  "zcash",
+  "ethena",
+  "bitway",
+  "starknet",
+  "sui"
  ],
  "wallets": {}
 }
