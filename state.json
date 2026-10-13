@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791878313,
+ "last_cg": 1791879794,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "identity-md-6900",
   "bunker-mode",
   "crawlerpad",
-  "claudia-4",
   "pearl-2",
+  "claudia-4",
   "near",
   "quantus",
   "pudgy-penguins",
   "bitcoin",
-  "starknet",
   "pons",
+  "hyperliquid",
   "blur",
   "pump-fun",
-  "wormhole"
+  "sonic-3"
  ],
  "wallets": {}
 }
