@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791895719,
+ "last_cg": 1791897181,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "wisp-2",
+  "zylo-ecosystem",
   "bunker-mode",
   "crawlerpad",
-  "zylo-ecosystem",
   "identity-md-6900",
   "pearl-2",
-  "quant-network",
-  "pudgy-penguins",
   "sonic-3",
-  "near",
-  "quantus",
+  "quant-network",
   "canton-network",
-  "derive",
+  "pudgy-penguins",
+  "quantus",
+  "pons",
   "sui",
-  "bittensor"
+  "derive",
+  "render-token"
  ],
  "wallets": {}
 }
