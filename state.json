@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791934174,
+ "last_cg": 1791935741,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "zylo-ecosystem",
   "crawlerpad",
   "pearl-2",
-  "basic-attention-token",
-  "quant-network",
-  "starknet",
   "quantus",
-  "pepe",
-  "pump-fun",
-  "peaq-2",
-  "derive",
-  "backpack",
+  "starknet",
+  "quant-network",
+  "lighter",
+  "basic-attention-token",
   "near",
-  "aerodrome-finance"
+  "zcash",
+  "derive",
+  "optimism",
+  "solana",
+  "bitway"
  ],
  "wallets": {}
 }
