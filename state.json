@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "memecore": 1791889775
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791888763,
+ "last_cg": 1791889775,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "wisp-2",
-  "identity-md-6900",
   "crawlerpad",
+  "identity-md-6900",
   "bunker-mode",
-  "pearl-2",
-  "starknet",
-  "quantus",
   "near",
+  "pearl-2",
+  "quantus",
   "ethereum",
+  "starknet",
   "pudgy-penguins",
-  "ai-rig-complex",
   "sui",
-  "bitway",
+  "ai-rig-complex",
+  "backpack",
   "bitcoin",
-  "solana"
+  "jupiter-exchange-solana"
  ],
  "wallets": {}
 }
