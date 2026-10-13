@@ -1,32 +1,30 @@
 {
  "cg_alerted": {
-  "blockstack": 1791864298,
-  "pyth-network": 1791857062,
-  "starknet": 1791857062
+  "blockstack": 1791864298
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791867186,
+ "last_cg": 1791868170,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "crawlerpad",
+  "identity-md-6900",
   "claudia-4",
   "bunker-mode",
-  "pudgy-penguins",
-  "near",
-  "starknet",
   "quantus",
+  "pudgy-penguins",
+  "starknet",
+  "near",
   "bitcoin",
-  "backpack",
-  "sui",
   "wormhole",
-  "ondo-finance",
-  "pearl-2",
-  "layerzero",
-  "ethena"
+  "sui",
+  "backpack",
+  "sonic-3",
+  "ethereum",
+  "ondo-finance"
  ],
  "wallets": {}
 }
