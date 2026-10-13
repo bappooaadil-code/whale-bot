@@ -7,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791898965,
+ "last_cg": 1791900365,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "doge-pepe",
   "wisp-2",
-  "zylo-ecosystem",
   "pons",
+  "zylo-ecosystem",
   "bunker-mode",
   "quantus",
   "pearl-2",
-  "crawlerpad",
-  "quant-network",
-  "sonic-3",
   "pudgy-penguins",
-  "sui",
-  "bitcoin",
+  "sonic-3",
   "starknet",
+  "near",
+  "bitcoin",
   "solana",
-  "canton-network"
+  "quant-network",
+  "uniswap"
  ],
  "wallets": {}
 }
