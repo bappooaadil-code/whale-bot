@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1791918243,
+ "last_cg": 1791920194,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "wisp-2",
   "doge-pepe",
   "aerodrome-finance",
-  "pearl-2",
-  "pudgy-penguins",
   "zylo-ecosystem",
-  "quantus",
+  "pudgy-penguins",
+  "near",
   "starknet",
+  "pearl-2",
   "bitcoin",
-  "injective-protocol",
-  "pi-network",
+  "quantus",
   "quant-network",
+  "basic-attention-token",
   "optimism",
-  "plume",
-  "sonic-3"
+  "blur",
+  "injective-protocol"
  ],
  "wallets": {}
 }
