@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "bitway": 1792045526,
   "pyth-network": 1792041685
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792043667,
+ "last_cg": 1792045526,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "puffer-finance",
+  "near",
   "zksync",
-  "pearl-2",
   "bitcoin",
   "pudgy-penguins",
-  "near",
-  "quantus",
-  "ethereum",
-  "ondo-finance",
-  "sui",
-  "walrus-2",
+  "zcash",
+  "bitway",
   "solana",
+  "quantus",
+  "pearl-2",
   "quant-network",
-  "collector-crypt",
-  "starknet"
+  "pons",
+  "backpack",
+  "chainlink",
+  "collector-crypt"
  ],
  "wallets": {}
 }
