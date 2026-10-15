@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792098090,
+ "last_cg": 1792100051,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "streamoors",
-  "altai-the-tiger",
   "sword-inu",
   "ignition-2",
   "no-crying-in-the-casino",
+  "altai-the-tiger",
   "near",
+  "pearl-2",
   "pudgy-penguins",
   "quantus",
-  "aerodrome-finance",
   "injective-protocol",
-  "starknet",
-  "pyth-network",
-  "basic-attention-token",
+  "backpack",
   "bitcoin",
-  "nillion"
+  "starknet",
+  "sui",
+  "filecoin"
  ],
  "wallets": {}
 }
