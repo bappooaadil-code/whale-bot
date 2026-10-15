@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1792065026,
   "bitway": 1792066554
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792074025,
+ "last_cg": 1792076167,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "bitcoin",
-  "solana",
-  "zerebro",
+  "aerodrome-finance",
   "near",
+  "zerebro",
+  "quantus",
+  "plasma",
+  "uniswap",
+  "pudgy-penguins",
   "pearl-2",
   "layerzero",
-  "ethena",
-  "aerodrome-finance",
-  "starknet",
-  "quantus",
-  "pump-fun",
-  "zksync",
-  "zama",
   "sui",
-  "plasma"
+  "aave",
+  "derive",
+  "collector-crypt",
+  "ethereum"
  ],
  "wallets": {}
 }
