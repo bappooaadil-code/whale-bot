@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "pyth-network": 1792041685
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792040097,
+ "last_cg": 1792041685,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "bitcoin",
-  "zksync",
-  "near",
   "puffer-finance",
+  "zksync",
+  "bitcoin",
   "walrus-2",
+  "near",
+  "ondo-finance",
   "pearl-2",
-  "quantus",
   "aerodrome-finance",
   "pudgy-penguins",
-  "ondo-finance",
-  "sui",
+  "starknet",
+  "venice-token",
   "pons",
-  "pump-fun",
-  "fetch-ai",
-  "solana"
+  "solana",
+  "quantus",
+  "quant-network"
  ],
  "wallets": {}
 }
