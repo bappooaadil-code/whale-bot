@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
-  "bitway": 1792135172
+  "bitway": 1792135172,
+  "worldcoin-wld": 1792141512
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792139363,
+ "last_cg": 1792141512,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "streamoors",
   "ignition-2",
+  "celestia",
   "injective-protocol",
-  "quantus",
-  "near",
+  "starknet",
   "pearl-2",
+  "quantus",
+  "pudgy-penguins",
+  "near",
   "layerzero",
   "aerodrome-finance",
-  "pudgy-penguins",
-  "celestia",
-  "sui",
-  "starknet",
-  "ethena",
+  "hyperliquid",
   "sonic-3",
-  "lighter"
+  "solana",
+  "sui"
  ],
  "wallets": {}
 }
