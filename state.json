@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792124530,
+ "last_cg": 1792126712,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "streamoors",
   "ignition-2",
   "injective-protocol",
+  "pearl-2",
   "near",
   "quantus",
-  "pearl-2",
   "aerodrome-finance",
-  "pendle",
   "starknet",
-  "celestia",
-  "filecoin",
-  "bittensor",
+  "hyperliquid",
+  "solana",
   "bitcoin",
-  "zcash",
-  "solana"
+  "layerzero",
+  "render-token",
+  "quant-network",
+  "pendle"
  ],
  "wallets": {}
 }
