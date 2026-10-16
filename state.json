@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792160099
+  "akedo": 1792171427
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792169816,
+ "last_cg": 1792171427,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "dacity-coin",
-  "injective-protocol",
   "pearl-2",
-  "quantus",
   "near",
-  "bittensor",
+  "quantus",
+  "celestia",
   "bitcoin",
-  "neosoul",
   "hyperliquid",
+  "injective-protocol",
+  "pudgy-penguins",
+  "bittensor",
+  "neosoul",
+  "sui",
   "pump-fun",
   "pons",
-  "pudgy-penguins",
-  "celestia",
-  "aerodrome-finance",
-  "starknet"
+  "quant-network"
  ],
  "wallets": {}
 }
