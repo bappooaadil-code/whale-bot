@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "bitway": 1792120707
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792130428,
+ "last_cg": 1792132675,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "streamoors",
   "ignition-2",
-  "injective-protocol",
   "near",
-  "pearl-2",
+  "injective-protocol",
   "layerzero",
-  "hyperliquid",
-  "aerodrome-finance",
-  "solana",
+  "pearl-2",
   "quantus",
+  "solana",
   "quant-network",
-  "kaspa",
-  "bitcoin",
-  "pump-fun",
-  "starknet"
+  "pons",
+  "sui",
+  "aerodrome-finance",
+  "zcash",
+  "hyperliquid",
+  "bittensor"
  ],
  "wallets": {}
 }
