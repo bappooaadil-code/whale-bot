@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792116998,
+ "last_cg": 1792119170,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "streamoors",
   "ignition-2",
   "injective-protocol",
-  "aerodrome-finance",
   "zksync",
-  "collector-crypt",
-  "sui",
+  "starknet",
   "pearl-2",
   "quantus",
   "grass",
+  "plume",
   "bitcoin",
-  "starknet",
-  "solana",
+  "near",
+  "basic-attention-token",
+  "aerodrome-finance",
   "lighter",
-  "ondo-finance"
+  "walrus-2"
  ],
  "wallets": {}
 }
