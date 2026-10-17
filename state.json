@@ -1,29 +1,30 @@
 {
  "cg_alerted": {
+  "bitway": 1792260330,
   "pearl-2": 1792259324
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792259324,
+ "last_cg": 1792260330,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quack-ai",
+  "quant-network",
   "near",
   "pearl-2",
+  "ondo-finance",
   "zcash",
-  "quant-network",
-  "pudgy-penguins",
+  "pump-fun",
   "quantus",
   "sui",
+  "jupiter-exchange-solana",
+  "kaspa",
+  "bitcoin",
   "starknet",
-  "pons",
-  "ondo-finance",
-  "celestia",
-  "ethereum",
-  "lighter",
+  "bitway",
   "layerzero"
  ],
  "wallets": {}
