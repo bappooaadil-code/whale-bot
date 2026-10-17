@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792221145,
+ "last_cg": 1792222998,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,15 +14,15 @@
   "bitcoin",
   "pearl-2",
   "pons",
-  "hyperliquid",
-  "pudgy-penguins",
-  "numeraire",
-  "lighter",
+  "injective-protocol",
   "ondo-finance",
-  "pump-fun",
-  "worldcoin-wld",
+  "bitway",
+  "hyperliquid",
+  "zcash",
   "neosoul",
-  "impossible-cloud-network-token"
+  "worldcoin-wld",
+  "pudgy-penguins",
+  "arbitrum"
  ],
  "wallets": {}
 }
