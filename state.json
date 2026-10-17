@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792260330,
-  "pearl-2": 1792259324
+  "bitway": 1792260330
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792269444,
+ "last_cg": 1792270952,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "quack-ai",
-  "pudgy-penguins",
-  "starknet",
   "pearl-2",
+  "quack-ai",
+  "quantus",
+  "pudgy-penguins",
+  "near",
+  "starknet",
+  "quant-network",
+  "solana",
+  "injective-protocol",
+  "aerodrome-finance",
+  "chainlink",
+  "canton-network",
   "sui",
   "celestia",
-  "quantus",
-  "injective-protocol",
-  "monad",
-  "altlayer",
-  "bitcoin",
-  "near",
-  "aerodrome-finance",
-  "canton-network",
-  "helium"
+  "monad"
  ],
  "wallets": {}
 }
