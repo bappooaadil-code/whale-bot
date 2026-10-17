@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "pearl-2": 1792259324
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792257853,
+ "last_cg": 1792259324,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quack-ai",
   "near",
-  "pudgy-penguins",
-  "pons",
-  "celestia",
   "pearl-2",
-  "quant-network",
-  "quantus",
-  "layerzero",
   "zcash",
-  "ethereum",
-  "ondo-finance",
+  "quant-network",
+  "pudgy-penguins",
+  "quantus",
   "sui",
-  "injective-protocol",
-  "bitcoin"
+  "starknet",
+  "pons",
+  "ondo-finance",
+  "celestia",
+  "ethereum",
+  "lighter",
+  "layerzero"
  ],
  "wallets": {}
 }
