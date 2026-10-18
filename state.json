@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1792286315
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792284196,
+ "last_cg": 1792286315,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "pudgy-penguins",
   "quack-ai",
-  "near",
-  "zcash",
   "bitcoin",
-  "solana",
-  "canton-network",
-  "injective-protocol",
-  "ondo-finance",
-  "quantus",
   "lighter",
+  "zcash",
+  "quantus",
+  "injective-protocol",
+  "venice-token",
+  "canton-network",
+  "pearl-2",
+  "ethereum",
+  "sui",
   "bittensor",
-  "pump-fun",
-  "pons",
-  "quant-network"
+  "pudgy-penguins",
+  "aerodrome-finance",
+  "pump-fun"
  ],
  "wallets": {}
 }
