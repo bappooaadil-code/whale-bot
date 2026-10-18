@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
-  "bitway": 1792286315
+  "bitway": 1792286315,
+  "quack-ai": 1792289609
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792288203,
+ "last_cg": 1792289609,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quack-ai",
   "lighter",
-  "bitcoin",
-  "injective-protocol",
+  "neosoul",
   "pearl-2",
+  "quant-network",
+  "injective-protocol",
+  "pons",
+  "monero",
+  "zcash",
+  "near",
+  "sui",
   "venice-token",
   "ondo-finance",
-  "monero",
-  "sui",
-  "quant-network",
-  "worldcoin-wld",
-  "bittensor",
-  "backpack",
-  "quantus",
-  "zcash"
+  "aster-2",
+  "zksync"
  ],
  "wallets": {}
 }
