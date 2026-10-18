@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "quack-ai": 1792289609
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792300208,
+ "last_cg": 1792302001,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "minter",
-  "near",
   "quack-ai",
   "sui",
-  "quantus",
-  "hyperliquid",
-  "ondo-finance",
-  "pons",
+  "near",
   "pearl-2",
-  "starknet",
+  "quantus",
+  "pump-fun",
+  "quant-network",
+  "hyperliquid",
+  "cosmos",
+  "raydium",
   "cardano",
-  "algorand",
-  "bitcoin",
-  "injective-protocol",
-  "venice-token"
+  "pons",
+  "polkadot",
+  "solana"
  ],
  "wallets": {}
 }
