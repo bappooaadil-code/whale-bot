@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "pearl-2": 1792303497
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792314281,
+ "last_cg": 1792315963,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "minter",
-  "bittensor",
-  "quack-ai",
-  "near",
-  "pons",
-  "pearl-2",
-  "bitcoin",
   "hyperliquid",
-  "starknet",
-  "ethereum",
+  "bittensor",
   "quantus",
-  "fetch-ai",
+  "pearl-2",
+  "near",
   "ondo-finance",
+  "pons",
+  "monero",
+  "pump-fun",
+  "starknet",
   "polkadot",
-  "celestia"
+  "ethena",
+  "quack-ai",
+  "solana"
  ],
  "wallets": {}
 }
