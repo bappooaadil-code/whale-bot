@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792371871,
   "quack-ai": 1792381915
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792381915,
+ "last_cg": 1792383731,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "doge-pepe-3",
-  "hi",
   "claudia-5",
-  "quantus",
+  "hi",
+  "covenant-x402",
   "pearl-2",
+  "quantus",
   "pudgy-penguins",
-  "bittensor",
-  "bitcoin",
-  "near",
-  "starknet",
   "sui",
-  "pi-network",
-  "fetch-ai",
-  "hyperliquid",
-  "quack-ai"
+  "zcash",
+  "bittensor",
+  "algorand",
+  "ethereum",
+  "bitcoin",
+  "raydium",
+  "quant-network"
  ],
  "wallets": {}
 }
