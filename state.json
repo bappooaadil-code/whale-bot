@@ -1,6 +1,5 @@
 {
  "cg_alerted": {
-  "bitway": 1792413553,
   "figure-heloc": 1792416272,
   "memecore": 1792416272
  },
@@ -8,25 +7,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792423292,
+ "last_cg": 1792425385,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "pearl-2",
-  "pudgy-penguins",
-  "bitcoin",
+  "startupsi",
   "boomer-4",
-  "quantus",
   "near",
-  "sui",
-  "osmosis",
-  "pons",
-  "hyperliquid",
+  "pearl-2",
   "starknet",
-  "arbitrum",
-  "solana",
+  "pudgy-penguins",
+  "quantus",
+  "bitcoin",
+  "hyperliquid",
+  "layerzero",
   "zcash",
-  "layerzero"
+  "injective-protocol",
+  "arbitrum",
+  "quant-network",
+  "osmosis"
  ],
  "wallets": {}
 }
