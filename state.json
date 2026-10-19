@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792439695,
   "quack-ai": 1792447212
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792448992,
+ "last_cg": 1792450794,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "startupsi",
-  "bitcoin",
   "pearl-2",
   "quantus",
+  "bitcoin",
   "pudgy-penguins",
-  "solana",
   "ethereum",
-  "pump-fun",
-  "pha",
-  "near",
-  "polkadot",
+  "solana",
+  "kaspa",
   "hyperliquid",
-  "hedera-hashgraph",
+  "pha",
+  "quant-network",
+  "pump-fun",
+  "venice-token",
   "aave",
-  "ondo-finance"
+  "aster-2"
  ],
  "wallets": {}
 }
