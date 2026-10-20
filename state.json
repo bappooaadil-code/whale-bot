@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1792472632
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792470577,
+ "last_cg": 1792472632,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "quantus",
-  "pudgy-penguins",
+  "near",
   "bitcoin",
   "pearl-2",
-  "sui",
-  "near",
-  "hyperliquid",
-  "arbitrum",
-  "pump-fun",
-  "pha",
-  "solana",
-  "pons",
+  "collector-crypt",
+  "pudgy-penguins",
   "aerodrome-finance",
-  "ondo-finance",
-  "collector-crypt"
+  "pump-fun",
+  "derive",
+  "quack-ai",
+  "ripple",
+  "venice-token",
+  "backpack",
+  "sui",
+  "pons"
  ],
  "wallets": {}
 }
