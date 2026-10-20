@@ -1,6 +1,7 @@
 {
  "cg_alerted": {
   "aerodrome-finance": 1792508953,
+  "bitway": 1792517172,
   "blockstack": 1792513040,
   "ethena": 1792513040,
   "lighter": 1792513040,
@@ -13,25 +14,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792515258,
+ "last_cg": 1792517172,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "pearl-2",
   "quantus",
-  "pudgy-penguins",
-  "near",
   "aerodrome-finance",
+  "near",
   "bitcoin",
   "collector-crypt",
-  "worldcoin-wld",
   "venice-token",
-  "sui",
-  "pha",
-  "ethereum",
   "zcash",
-  "quant-network",
-  "curve-dao-token"
+  "sui",
+  "pudgy-penguins",
+  "solana",
+  "compound-governance-token",
+  "hyperliquid",
+  "injective-protocol",
+  "ripple"
  ],
  "wallets": {}
 }
