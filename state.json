@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792472632
+  "akedo": 1792483674
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792481246,
+ "last_cg": 1792483674,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "collector-crypt",
   "pha",
+  "quantus",
+  "pearl-2",
+  "collector-crypt",
   "bitcoin",
   "near",
   "grvt",
-  "pearl-2",
-  "quantus",
-  "zcash",
-  "pudgy-penguins",
-  "bittensor",
-  "arbitrum",
+  "nullmask",
+  "venice-token",
   "starknet",
-  "altlayer",
-  "worldcoin-wld",
-  "celestia"
+  "aerodrome-finance",
+  "injective-protocol",
+  "celestia",
+  "bittensor",
+  "ethereum"
  ],
  "wallets": {}
 }
