@@ -1,33 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792517172,
-  "blockstack": 1792513040,
-  "ethena": 1792513040,
-  "lighter": 1792513040
+  "bitway": 1792517172
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792523634,
+ "last_cg": 1792525730,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "pearl-2",
-  "pudgy-penguins",
   "quantus",
-  "aerodrome-finance",
-  "bitcoin",
-  "venice-token",
+  "pepe",
+  "pudgy-penguins",
   "starknet",
-  "collector-crypt",
-  "injective-protocol",
-  "pons",
-  "near",
-  "pha",
+  "venice-token",
   "grass",
-  "avalanche-2",
-  "layerzero"
+  "collector-crypt",
+  "near",
+  "bitcoin",
+  "aerodrome-finance",
+  "injective-protocol",
+  "jupiter-exchange-solana",
+  "solana",
+  "monero"
  ],
  "wallets": {}
 }
