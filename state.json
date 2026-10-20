@@ -1,30 +1,35 @@
 {
  "cg_alerted": {
-  "bitway": 1792502089
+  "aerodrome-finance": 1792508953,
+  "bitway": 1792502089,
+  "near": 1792508953,
+  "pearl-2": 1792508953,
+  "pepe": 1792508953,
+  "pump-fun": 1792508953
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792506606,
+ "last_cg": 1792508953,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "pearl-2",
-  "collector-crypt",
   "bitcoin",
   "janction",
-  "near",
-  "sui",
-  "grvt",
-  "pons",
-  "worldcoin-wld",
-  "venice-token",
   "quantus",
-  "zcash",
+  "sui",
+  "worldcoin-wld",
+  "collector-crypt",
+  "aerodrome-finance",
+  "quant-network",
+  "venice-token",
+  "pons",
+  "near",
+  "layerzero",
   "starknet",
-  "aave",
-  "monero"
+  "bittensor"
  ],
  "wallets": {}
 }
