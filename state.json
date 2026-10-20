@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792538037,
+ "last_cg": 1792539808,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -18,13 +18,13 @@
   "hyperliquid",
   "bitcoin",
   "quantus",
-  "pump-fun",
-  "collector-crypt",
+  "pi-network",
+  "solana",
+  "injective-protocol",
   "sui",
   "worldcoin-wld",
-  "chainlink",
-  "quant-network",
-  "monero"
+  "pons",
+  "polkadot"
  ],
  "wallets": {}
 }
