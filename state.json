@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1792586466,
-  "bitway": 1792581968
+  "akedo": 1792586466
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792591493,
+ "last_cg": 1792593581,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "universal-high-income-2",
-  "pudgy-penguins",
   "axis-robotics",
+  "pudgy-penguins",
   "pearl-2",
   "aerodrome-finance",
-  "bitcoin",
   "zcash",
   "quantus",
-  "venice-token",
-  "lighter",
-  "collector-crypt",
-  "injective-protocol",
+  "bitcoin",
   "near",
-  "orbio-so",
-  "layerzero"
+  "sui",
+  "solana",
+  "collector-crypt",
+  "doodles",
+  "ethereum",
+  "venice-token"
  ],
  "wallets": {}
 }
