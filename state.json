@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "akedo": 1792586466,
   "bitway": 1792581968
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792584066,
+ "last_cg": 1792586466,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "universal-high-income-2",
   "axis-robotics",
-  "messier",
   "pudgy-penguins",
   "pearl-2",
-  "universal-high-income-2",
-  "bitcoin",
-  "near",
+  "messier",
   "orbio-so",
-  "quantus",
-  "ethena",
   "aerodrome-finance",
-  "venice-token",
-  "aave",
-  "ripple",
-  "hyperliquid"
+  "bitcoin",
+  "ethena",
+  "collector-crypt",
+  "derive",
+  "lighter",
+  "quantus",
+  "sui",
+  "venice-token"
  ],
  "wallets": {}
 }
