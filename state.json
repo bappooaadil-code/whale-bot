@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792625054,
+ "last_cg": 1792626779,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "aerodrome-finance",
   "pearl-2",
   "pudgy-penguins",
-  "axis-robotics",
   "near",
+  "axis-robotics",
   "quantus",
-  "bitcoin",
-  "solana",
   "derive",
-  "lighter",
-  "nockchain",
+  "bitcoin",
   "ripple",
+  "solana",
   "ethereum",
-  "venice-token"
+  "canton-network",
+  "starknet",
+  "stellar"
  ],
  "wallets": {}
 }
