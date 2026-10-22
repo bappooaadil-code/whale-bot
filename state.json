@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
+  "memecore": 1792656987,
   "monero": 1792649358
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792654466,
+ "last_cg": 1792656987,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "aerodrome-finance",
-  "pearl-2",
-  "monero",
-  "axis-robotics",
   "pudgy-penguins",
-  "sui",
-  "quantus",
-  "lighter",
-  "pump-fun",
-  "collector-crypt",
-  "zcash",
+  "pearl-2",
+  "axis-robotics",
+  "monero",
   "near",
-  "solana",
+  "lighter",
+  "grvt",
+  "sui",
+  "collector-crypt",
+  "bitcoin",
+  "quantus",
+  "magma-finance",
   "venice-token",
-  "injective-protocol"
+  "bittensor"
  ],
  "wallets": {}
 }
