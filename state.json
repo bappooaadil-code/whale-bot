@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792686000,
   "memecore": 1792690008
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792696433,
+ "last_cg": 1792698583,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "universal-high-income-2",
-  "onlyagent",
-  "aerodrome-finance",
-  "bitcoin",
-  "pudgy-penguins",
-  "monero",
-  "pearl-2",
-  "sui",
-  "zcash",
-  "lighter",
-  "quant-network",
   "dacity-coin-3",
+  "onlyagent",
+  "pearl-2",
+  "aerodrome-finance",
   "near",
-  "solana",
-  "uniswap"
+  "bitcoin",
+  "sui",
+  "monero",
+  "uniswap",
+  "quantus",
+  "zcash",
+  "quant-network",
+  "hyperliquid",
+  "lighter"
  ],
  "wallets": {}
 }
