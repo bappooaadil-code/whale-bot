@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "monero": 1792649358
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792647322,
+ "last_cg": 1792649358,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "aerodrome-finance",
-  "pearl-2",
-  "quantus",
-  "axis-robotics",
   "pudgy-penguins",
-  "zcash",
   "lighter",
-  "bitcoin",
-  "pump-fun",
-  "quant-network",
-  "pha",
-  "ondo-finance",
+  "pearl-2",
+  "axis-robotics",
+  "zcash",
+  "quantus",
   "solana",
-  "uniswap",
-  "aethir"
+  "pons",
+  "injective-protocol",
+  "cardano",
+  "monero",
+  "layerzero",
+  "chainlink",
+  "ethereum"
  ],
  "wallets": {}
 }
