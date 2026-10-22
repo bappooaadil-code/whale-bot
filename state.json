@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792626779,
+ "last_cg": 1792628207,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "universal-high-income-2",
   "aerodrome-finance",
   "pearl-2",
-  "pudgy-penguins",
   "near",
   "axis-robotics",
-  "quantus",
-  "derive",
   "bitcoin",
-  "ripple",
-  "solana",
+  "quantus",
   "ethereum",
-  "canton-network",
   "starknet",
-  "stellar"
+  "lighter",
+  "pepe",
+  "derive",
+  "injective-protocol",
+  "pudgy-penguins",
+  "ripple"
  ],
  "wallets": {}
 }
