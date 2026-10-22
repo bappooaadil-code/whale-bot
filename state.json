@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792675073,
+ "last_cg": 1792677593,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "onlyagent",
   "aerodrome-finance",
   "pearl-2",
-  "quantus",
-  "pudgy-penguins",
   "monero",
-  "pump-fun",
+  "pudgy-penguins",
+  "quantus",
   "bitcoin",
-  "venice-token",
+  "ethereum",
   "near",
-  "zcash",
+  "lighter",
   "uniswap",
-  "polkadot",
-  "injective-protocol"
+  "solana",
+  "magma-finance",
+  "venice-token"
  ],
  "wallets": {}
 }
