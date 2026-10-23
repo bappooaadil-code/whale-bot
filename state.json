@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792775479,
+ "last_cg": 1792777377,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "universal-high-income-2",
   "dacity-coin-3",
   "pudgy-penguins",
-  "initia",
-  "pepe",
   "pearl-2",
-  "monero",
+  "initia",
   "aerodrome-finance",
-  "quantus",
-  "collector-crypt",
-  "venice-token",
+  "pepe",
   "hyperliquid",
-  "derive",
-  "bitcoin"
+  "bitcoin",
+  "quantus",
+  "ethereum",
+  "injective-protocol",
+  "moonbirds",
+  "starknet"
  ],
  "wallets": {}
 }
