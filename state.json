@@ -1,30 +1,29 @@
 {
  "cg_alerted": {
-  "akedo": 1792740554,
-  "bitway": 1792733471
+  "akedo": 1792740554
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792743042,
+ "last_cg": 1792745221,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "bitcoin",
   "pearl-2",
-  "pudgy-penguins",
-  "axis-robotics",
-  "starknet",
-  "the-black-bull",
-  "akedo",
+  "bitcoin",
   "pepe",
+  "near",
+  "ondo-finance",
+  "irys",
+  "sui",
+  "tensorcash",
+  "kaspa",
+  "akedo",
+  "lighter",
+  "axis-robotics",
   "venice-token",
-  "quantus",
-  "aerodrome-finance",
-  "canton-network",
-  "pons",
-  "cash-cat",
+  "pudgy-penguins",
   "jupiter-exchange-solana"
  ],
  "wallets": {}
