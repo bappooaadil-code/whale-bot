@@ -1,13 +1,10 @@
 {
- "cg_alerted": {
-  "bitway": 1792747122,
-  "pepe": 1792747122
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792756985,
+ "last_cg": 1792759213,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -15,17 +12,17 @@
   "dacity-coin-3",
   "irys",
   "pudgy-penguins",
-  "aerodrome-finance",
-  "pearl-2",
-  "pons",
   "pepe",
-  "tensorcash",
+  "pons",
+  "pearl-2",
+  "near",
   "bitcoin",
-  "ethena",
+  "bittensor",
+  "ethereum",
   "quant-network",
   "hyperliquid",
-  "layerzero",
-  "solana"
+  "quantus",
+  "tensorcash"
  ],
  "wallets": {}
 }
