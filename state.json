@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1792717114
+  "akedo": 1792729511
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792727728,
+ "last_cg": 1792729511,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "axis-robotics",
-  "pearl-2",
-  "pudgy-penguins",
   "starknet",
-  "monad",
-  "injective-protocol",
-  "aerodrome-finance",
-  "bitcoin",
-  "solana",
   "quantus",
+  "pudgy-penguins",
+  "pearl-2",
+  "monad",
   "pepe",
-  "pump-fun",
-  "quant-network",
-  "near",
-  "ondo-finance"
+  "uniswap",
+  "akedo",
+  "injective-protocol",
+  "pha",
+  "bitcoin",
+  "aerodrome-finance",
+  "solana",
+  "near"
  ],
  "wallets": {}
 }
