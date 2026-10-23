@@ -1,28 +1,31 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "akedo": 1792786667,
+  "bitway": 1792786667
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792785202,
+ "last_cg": 1792786667,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "irys",
   "universal-high-income-2",
-  "dacity-coin-3",
   "pearl-2",
   "venice-token",
-  "chainlink",
-  "pudgy-penguins",
-  "aerodrome-finance",
-  "sui",
+  "dacity-coin-3",
   "bitcoin",
-  "pepe",
-  "near",
   "zcash",
+  "pudgy-penguins",
   "bittensor",
-  "quant-network"
+  "chainlink",
+  "quantus",
+  "ethereum",
+  "near",
+  "aerodrome-finance",
+  "sui"
  ],
  "wallets": {}
 }
