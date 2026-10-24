@@ -1,32 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1792805544,
-  "the-open-network": 1792797280,
-  "worldcoin-wld": 1792797280
+  "akedo": 1792805544
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792807748,
+ "last_cg": 1792809575,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "moonbirds",
   "irys",
-  "pudgy-penguins",
-  "axis-robotics",
-  "near",
-  "pepe",
-  "bitcoin",
+  "moonbirds",
   "pearl-2",
+  "axis-robotics",
+  "bitcoin",
+  "pudgy-penguins",
+  "near",
   "quantus",
-  "bittensor",
+  "chainlink",
+  "pepe",
   "sui",
-  "internet-computer",
-  "caldera",
-  "basic-attention-token",
-  "collector-crypt"
+  "monero",
+  "chip-2",
+  "beldex",
+  "the-graph"
  ],
  "wallets": {}
 }
