@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792876186,
+ "last_cg": 1792877974,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "hyperliquid",
   "dacity-coin-3",
   "binance-super-cz-2",
+  "pudgy-penguins",
   "bitcoin",
-  "tether",
-  "ethereum",
-  "ethena",
+  "zcash",
   "bubblemaps",
+  "tether",
   "algorand",
-  "hedera-hashgraph",
+  "janction",
   "near",
-  "polkadot",
-  "venice-token",
-  "quantus"
+  "monero",
+  "pearl-2",
+  "bittensor"
  ],
  "wallets": {}
 }
