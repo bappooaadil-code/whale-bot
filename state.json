@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792862235,
+ "last_cg": 1792863966,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -16,15 +16,15 @@
   "binance-super-cz-2",
   "dacity-coin-3",
   "bitcoin",
-  "zcash",
   "pudgy-penguins",
+  "zcash",
   "pearl-2",
-  "uniswap",
+  "quantus",
   "near",
-  "tether",
-  "sui",
-  "aerodrome-finance",
-  "lighter"
+  "irys",
+  "aave",
+  "pump-fun",
+  "sui"
  ],
  "wallets": {}
 }
