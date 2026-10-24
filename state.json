@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792860838,
+ "last_cg": 1792862235,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "universal-high-income-2",
   "hyperliquid",
-  "dacity-coin-3",
   "solana",
   "binance-super-cz-2",
+  "dacity-coin-3",
   "bitcoin",
-  "pudgy-penguins",
   "zcash",
-  "aerodrome-finance",
-  "lighter",
+  "pudgy-penguins",
   "pearl-2",
   "uniswap",
-  "sui",
+  "near",
   "tether",
-  "chainlink"
+  "sui",
+  "aerodrome-finance",
+  "lighter"
  ],
  "wallets": {}
 }
