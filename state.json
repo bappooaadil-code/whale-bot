@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1792805544
+  "akedo": 1792817273
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792815228,
+ "last_cg": 1792817273,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "moonbirds",
   "bubblemaps",
   "irys",
-  "moonbirds",
-  "axis-robotics",
-  "pudgy-penguins",
-  "bitcoin",
   "near",
-  "solana",
-  "hyperliquid",
-  "zcash",
-  "pump-fun",
-  "ethereum",
   "pearl-2",
+  "axis-robotics",
+  "bitcoin",
+  "pudgy-penguins",
   "quantus",
-  "ore"
+  "dogecoin",
+  "pump-fun",
+  "sui",
+  "layerzero",
+  "ethereum",
+  "chainlink"
  ],
  "wallets": {}
 }
