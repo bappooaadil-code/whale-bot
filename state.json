@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "akedo": 1792832636
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792843010,
+ "last_cg": 1792844791,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "hyperliquid",
   "pudgy-penguins",
   "universal-high-income-2",
   "dacity-coin-3",
   "binance-super-cz-2",
-  "hyperliquid",
   "orderly-network",
+  "solana",
   "aerodrome-finance",
   "pearl-2",
+  "bubblemaps",
+  "bitcoin",
   "near",
-  "zcash",
-  "collector-crypt",
-  "quantus",
-  "solana",
   "katana-network-token",
-  "bittensor"
+  "sui",
+  "zcash"
  ],
  "wallets": {}
 }
