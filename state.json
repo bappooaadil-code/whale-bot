@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792883977,
+ "last_cg": 1792885375,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -12,17 +12,17 @@
   "binance-super-cz-2",
   "pearl-2",
   "quantus",
-  "pudgy-penguins",
   "bittensor",
-  "gmx",
-  "ethena",
-  "near",
+  "pudgy-penguins",
   "pump-fun",
-  "axis-robotics",
-  "cap-4",
+  "near",
+  "monad",
+  "orderly-network",
   "pons",
+  "worldcoin-wld",
+  "polkadot",
   "bitcoin",
-  "sky"
+  "aerodrome-finance"
  ],
  "wallets": {}
 }
