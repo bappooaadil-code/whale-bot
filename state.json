@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792868964,
+ "last_cg": 1792870534,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -13,16 +13,16 @@
   "binance-super-cz-2",
   "dacity-coin-3",
   "pudgy-penguins",
-  "bitcoin",
-  "pearl-2",
-  "quantus",
-  "ethereum",
-  "aerodrome-finance",
-  "irys",
-  "raydium",
-  "pepe",
   "tether",
-  "pi-network"
+  "bitcoin",
+  "solana",
+  "quantus",
+  "cardano",
+  "aerodrome-finance",
+  "axis-robotics",
+  "aave",
+  "pi-network",
+  "concierge-io"
  ],
  "wallets": {}
 }
