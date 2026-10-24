@@ -4,7 +4,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792871877,
+ "last_cg": 1792873335,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -13,16 +13,16 @@
   "dacity-coin-3",
   "pudgy-penguins",
   "hyperliquid",
-  "tether",
   "bitcoin",
+  "tether",
   "near",
-  "pi-network",
-  "cardano",
+  "solana",
   "pearl-2",
+  "aerodrome-finance",
   "irys",
-  "quantus",
   "aave",
-  "aerodrome-finance"
+  "cardano",
+  "derive"
  ],
  "wallets": {}
 }
