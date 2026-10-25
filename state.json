@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "quant-network": 1792953067
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792962558,
+ "last_cg": 1792964331,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "pepina-2",
   "evmzone",
   "dacity-coin-3",
   "bitcoin",
-  "stonk-3",
-  "pearl-2",
-  "zcash",
   "pudgy-penguins",
-  "venice-token",
-  "aerodrome-finance",
-  "near",
+  "ethena",
   "quant-network",
-  "avalanche-2",
-  "monad",
+  "stonk-3",
+  "ondo-finance",
   "sui",
-  "hyperliquid"
+  "zcash",
+  "ripple",
+  "venice-token",
+  "monad",
+  "aave"
  ],
  "wallets": {}
 }
