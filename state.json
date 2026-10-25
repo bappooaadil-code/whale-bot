@@ -1,29 +1,30 @@
 {
  "cg_alerted": {
-  "akedo": 1792944489
+  "akedo": 1792944489,
+  "quant-network": 1792953067
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792951273,
+ "last_cg": 1792953067,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "evmzone",
   "dacity-coin-3",
   "near",
-  "bitcoin",
   "pearl-2",
-  "uniswap",
+  "bitcoin",
   "solana",
-  "starknet",
   "zcash",
-  "polygon-ecosystem-token",
-  "cardano",
+  "bittensor",
+  "pudgy-penguins",
   "pump-fun",
-  "pepe",
-  "injective-protocol",
+  "render-token",
+  "collector-crypt",
+  "quant-network",
+  "sui",
   "cap-4"
  ],
  "wallets": {}
