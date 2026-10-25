@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "memecore": 1792898261
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792896714,
+ "last_cg": 1792898261,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hyperliquid",
   "binance-super-cz-2",
   "pearl-2",
-  "quantus",
-  "pudgy-penguins",
-  "starknet",
   "solana",
-  "bitcoin",
+  "pudgy-penguins",
   "sui",
-  "axis-robotics",
-  "janction",
-  "kaspa",
-  "lighter",
   "near",
-  "geodnet"
+  "bitcoin",
+  "quantus",
+  "starknet",
+  "zcash",
+  "irys",
+  "aerodrome-finance",
+  "ethereum",
+  "initia"
  ],
  "wallets": {}
 }
