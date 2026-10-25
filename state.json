@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792906194,
+ "last_cg": 1792908094,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hyperliquid",
   "binance-super-cz-2",
-  "zcash",
   "irys",
+  "zcash",
   "pudgy-penguins",
-  "bittensor",
   "bitcoin",
   "pearl-2",
   "solana",
+  "pepe",
   "near",
-  "ethereum",
-  "starknet",
-  "sui",
-  "aerodrome-finance",
-  "pepe"
+  "derive",
+  "pump-fun",
+  "coti",
+  "apriori",
+  "lighter"
  ],
  "wallets": {}
 }
