@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "worldcoin-wld": 1792919847
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792918372,
+ "last_cg": 1792919847,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hyperliquid",
-  "bittensor",
+  "pudgy-penguins",
+  "axis-robotics",
   "pearl-2",
   "irys",
-  "pudgy-penguins",
-  "aerodrome-finance",
-  "near",
-  "quantus",
-  "sui",
-  "ondo-finance",
   "bitcoin",
+  "bittensor",
+  "quantus",
+  "aerodrome-finance",
+  "ripple",
   "solana",
   "ethereum",
-  "pons",
-  "ethena"
+  "sui",
+  "ronin",
+  "near"
  ],
  "wallets": {}
 }
