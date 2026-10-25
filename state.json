@@ -1,5 +1,6 @@
 {
  "cg_alerted": {
+  "aerodrome-finance": 1792929952,
   "rain": 1792926610,
   "worldcoin-wld": 1792919847
  },
@@ -7,25 +8,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792928421,
+ "last_cg": 1792929952,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "hyperliquid",
   "dacity-coin-3",
   "bitcoin",
-  "pyth-network",
+  "near",
   "pearl-2",
   "monad",
-  "near",
-  "bittensor",
-  "pons",
   "quant-network",
-  "pump-fun",
+  "zcash",
   "pudgy-penguins",
-  "starknet",
-  "pepe",
-  "zcash"
+  "solana",
+  "pump-fun",
+  "monero",
+  "bittensor",
+  "pyth-network",
+  "ethereum"
  ],
  "wallets": {}
 }
