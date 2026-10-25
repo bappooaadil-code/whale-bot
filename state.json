@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "akedo": 1792944489
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792942744,
+ "last_cg": 1792944489,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "evmzone",
   "dacity-coin-3",
-  "pudgy-penguins",
-  "hyperliquid",
   "quantus",
-  "ondo-finance",
-  "pearl-2",
-  "bitcoin",
-  "avalanche-2",
-  "mina-protocol",
+  "pudgy-penguins",
   "solana",
-  "lighter",
-  "ethereum",
-  "aerodrome-finance",
-  "quant-network"
+  "near",
+  "polkadot",
+  "bitcoin",
+  "pearl-2",
+  "hyperliquid",
+  "chainlink",
+  "ethena",
+  "pyth-network",
+  "backpack",
+  "irys"
  ],
  "wallets": {}
 }
