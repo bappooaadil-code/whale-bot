@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "aerodrome-finance": 1792929952,
-  "rain": 1792926610
+  "aerodrome-finance": 1792929952
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792936164,
+ "last_cg": 1792937478,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "evmzone",
   "dacity-coin-3",
+  "pudgy-penguins",
   "hyperliquid",
+  "ethena",
   "sui",
   "near",
-  "bitcoin",
-  "pump-fun",
-  "ethena",
-  "zcash",
   "pearl-2",
-  "pudgy-penguins",
+  "pepe",
+  "bitcoin",
   "aerodrome-finance",
-  "bittensor",
-  "ethereum",
-  "lighter"
+  "solana",
+  "pump-fun",
+  "aave",
+  "quant-network"
  ],
  "wallets": {}
 }
