@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793033346,
+ "last_cg": 1793035621,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "evmzone",
   "pepina-2",
   "bitcoin",
-  "pearl-2",
   "pudgy-penguins",
-  "hyperliquid",
-  "quantus",
   "chip-2",
+  "pearl-2",
+  "hyperliquid",
+  "solana",
+  "derive",
   "quant-network",
   "near",
-  "pons",
-  "derive",
-  "lighter",
-  "ethena"
+  "ethereum",
+  "bulla-3",
+  "bitway"
  ],
  "wallets": {}
 }
