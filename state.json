@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "quant-network": 1793010443
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793008264,
+ "last_cg": 1793010443,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "big-titty-coin",
-  "pepina-2",
   "axis-robotics",
-  "ethena",
-  "pearl-2",
-  "bitcoin",
   "pudgy-penguins",
-  "ethereum",
+  "pearl-2",
+  "big-titty-coin",
   "quant-network",
+  "bitcoin",
+  "ethena",
   "zcash",
+  "solana",
+  "near",
   "venice-token",
-  "internet-computer",
+  "pepina-2",
+  "hyperliquid",
   "ripple",
-  "aerodrome-finance",
-  "near"
+  "aria-ai"
  ],
  "wallets": {}
 }
