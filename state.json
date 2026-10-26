@@ -6,7 +6,7 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793051415,
+ "last_cg": 1793053074,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
@@ -14,17 +14,17 @@
   "quack-ai",
   "pump-fun",
   "pudgy-penguins",
-  "sui",
-  "quantus",
-  "pearl-2",
-  "zcash",
-  "bitcoin",
   "aerodrome-finance",
-  "hyperliquid",
-  "ondo-finance",
-  "lighter",
+  "zcash",
+  "sui",
   "chip-2",
-  "solana"
+  "pearl-2",
+  "bitcoin",
+  "quant-network",
+  "injective-protocol",
+  "ethereum",
+  "quantus",
+  "collector-crypt"
  ],
  "wallets": {}
 }
