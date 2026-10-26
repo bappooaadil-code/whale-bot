@@ -6,25 +6,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793040693,
+ "last_cg": 1793043068,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "big-titty-coin",
-  "evmzone",
   "chip-2",
   "pearl-2",
   "bitcoin",
-  "hyperliquid",
   "quantus",
-  "ethena",
+  "pudgy-penguins",
+  "hyperliquid",
   "sui",
+  "quant-network",
+  "venice-token",
+  "evmzone",
+  "ethereum",
   "solana",
   "injective-protocol",
-  "quant-network",
-  "ethereum",
-  "venice-token",
-  "monero"
+  "aerodrome-finance"
  ],
  "wallets": {}
 }
