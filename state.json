@@ -4,25 +4,25 @@
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1792983309,
+ "last_cg": 1792985174,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "evmzone",
   "bitcoin",
   "pearl-2",
-  "ethena",
   "pudgy-penguins",
+  "ethena",
   "near",
-  "ethereum",
+  "lighter",
   "bittensor",
-  "pump-fun",
-  "pons",
-  "aerodrome-finance",
+  "solana",
   "zcash",
+  "pons",
+  "pump-fun",
   "hyperliquid",
   "monad",
-  "binancecoin"
+  "avalanche-2"
  ],
  "wallets": {}
 }
