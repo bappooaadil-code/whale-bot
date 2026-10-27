@@ -1,30 +1,31 @@
 {
  "cg_alerted": {
-  "akedo": 1793117974
+  "akedo": 1793117974,
+  "bitway": 1793128449
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793125447,
+ "last_cg": 1793128449,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "squeekchain",
-  "pearl-2",
-  "pudgy-penguins",
-  "aerodrome-finance",
-  "quantus",
-  "zcash",
   "infinity-ground",
+  "quant-network",
   "solana",
-  "near",
   "derive",
-  "aster-2",
-  "bitcoin",
-  "chainlink",
-  "pepe",
-  "venice-token"
+  "pudgy-penguins",
+  "pearl-2",
+  "zcash",
+  "aerodrome-finance",
+  "sui",
+  "quantus",
+  "injective-protocol",
+  "aave",
+  "fetch-ai",
+  "akash-network"
  ],
  "wallets": {}
 }
