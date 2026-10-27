@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "quack-ai": 1793058872
+  "bitway": 1793070477
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793068200,
+ "last_cg": 1793070477,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "pudgy-penguins",
-  "chip-2",
   "quack-ai",
-  "pearl-2",
-  "hyperliquid",
-  "aerodrome-finance",
-  "ripple",
+  "pudgy-penguins",
   "bitcoin",
-  "near",
-  "solana",
+  "chip-2",
+  "pearl-2",
+  "ripple",
   "ethereum",
-  "sui",
-  "bittensor",
-  "ethena",
-  "kaspa"
+  "hyperliquid",
+  "akash-network",
+  "layerzero",
+  "solana",
+  "quant-network",
+  "near",
+  "bitway",
+  "cardano"
  ],
  "wallets": {}
 }
