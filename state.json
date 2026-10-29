@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "ethena": 1793316955
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793302752,
+ "last_cg": 1793316955,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "super-pepe",
-  "hyperliquid",
   "pepe",
-  "kinetiq",
-  "zcash",
-  "quantus",
-  "near",
-  "pearl-2",
-  "pudgy-penguins",
-  "polygon-ecosystem-token",
-  "syrup",
-  "pump-fun",
-  "starknet",
-  "aerodrome-finance",
-  "stonk-3"
+  "hyperliquid",
+  "uniswap",
+  "ethena",
+  "binancecoin",
+  "aave",
+  "bitcoin",
+  "ethereum",
+  "chainlink",
+  "solana",
+  "ondo-finance",
+  "monero",
+  "layerzero",
+  "pearl-2"
  ],
  "wallets": {}
 }
