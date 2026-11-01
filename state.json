@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "memecore": 1793526036
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793500381,
+ "last_cg": 1793526036,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "super-pepe",
-  "solana",
   "lighter",
-  "pearl-2",
-  "pepe",
-  "pump-fun",
-  "canton-network",
-  "kinetiq",
-  "pons",
-  "thorchain",
-  "near",
-  "fetch-ai",
+  "solana",
+  "bitcoin",
   "pudgy-penguins",
   "backpack",
-  "the-graph"
+  "hyperliquid",
+  "kinetiq",
+  "pepe",
+  "monad",
+  "near",
+  "pons",
+  "plasma",
+  "pearl-2",
+  "beam-2",
+  "the-black-bull"
  ],
  "wallets": {}
 }
