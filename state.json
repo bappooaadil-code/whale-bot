@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "bitway": 1793623739
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793623739,
+ "last_cg": 1793656656,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "kaspa",
-  "audacity-2",
   "super-inu-3",
-  "bitcoin",
-  "near",
+  "audacity-2",
   "hyperliquid",
+  "venice-token",
   "pearl-2",
-  "zcash",
-  "kinetiq",
+  "lighter",
   "pudgy-penguins",
-  "solana",
-  "pepe",
-  "ore",
-  "quant-network",
-  "monad"
+  "kamino",
+  "kinetiq",
+  "stellar",
+  "canton-network",
+  "ondo-finance",
+  "backpack",
+  "bitcoin",
+  "lisk"
  ],
  "wallets": {}
 }
