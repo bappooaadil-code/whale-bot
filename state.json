@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "pearl-2": 1793998937
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1793979349,
+ "last_cg": 1793998937,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "pudgy-penguins",
   "reboot-2",
   "denim",
-  "bitcoin",
-  "zcash",
-  "lighter",
-  "injective-protocol",
   "hyperliquid",
-  "solana",
-  "monad",
-  "pudgy-penguins",
-  "ethereum",
-  "near",
   "pearl-2",
-  "pump-fun",
-  "venice-token"
+  "bitcoin",
+  "quantus",
+  "monad",
+  "venice-token",
+  "injective-protocol",
+  "lighter",
+  "kinetiq",
+  "zcash",
+  "solana",
+  "official-trump"
  ],
  "wallets": {}
 }
