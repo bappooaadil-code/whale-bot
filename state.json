@@ -1,31 +1,28 @@
 {
- "cg_alerted": {
-  "dash": 1794177958,
-  "pump-fun": 1794177958
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794177958,
+ "last_cg": 1794189819,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "wasted-2",
   "bitcoin",
-  "janction",
   "hyperliquid",
-  "kinetiq",
-  "stonk-3",
-  "pudgy-penguins",
-  "near",
   "pearl-2",
-  "aave",
-  "ethereum",
-  "pepe",
-  "ethena",
+  "near",
   "quantus",
-  "dacity-coin-4"
+  "janction",
+  "pudgy-penguins",
+  "ethereum",
+  "ripple",
+  "pump-fun",
+  "moonbirds",
+  "uniswap",
+  "harmony",
+  "aero",
+  "monero"
  ],
  "wallets": {}
 }
