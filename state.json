@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1794334058
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794306477,
+ "last_cg": 1794334058,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "dacity-coin-4",
-  "super-inu-3",
-  "bitcoin",
-  "initia",
-  "near",
-  "pudgy-penguins",
   "zcash",
+  "bitcoin",
+  "super-inu-3",
+  "initia",
+  "avalanche-2",
+  "megaeth",
+  "pudgy-penguins",
   "solana",
-  "kinetiq",
+  "aero",
+  "hyperliquid",
   "ethereum",
   "pearl-2",
-  "monero",
-  "monad",
-  "avalanche-2",
-  "polkadot"
+  "sui",
+  "injective-protocol"
  ],
  "wallets": {}
 }
