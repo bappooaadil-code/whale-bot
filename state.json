@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1794559298
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794533398,
+ "last_cg": 1794559298,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "ni-hao-cat-2",
-  "audacity-4",
   "bitcoin",
-  "pearl-2",
+  "ethereum",
   "solana",
-  "pepe",
-  "ripple",
-  "derive",
-  "bittensor",
-  "ondo-finance",
-  "the-open-network",
-  "janction",
+  "hyperliquid",
+  "lighter",
+  "near",
   "pudgy-penguins",
-  "pons",
-  "monad"
+  "zcash",
+  "pearl-2",
+  "aave",
+  "internet-computer",
+  "chainlink",
+  "venice-token",
+  "kaspa",
+  "avalanche-2"
  ],
  "wallets": {}
 }
