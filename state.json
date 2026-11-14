@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "aster-2": 1794687439
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794671589,
+ "last_cg": 1794687439,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "ni-hao-cat",
   "bitcoin",
-  "kava",
+  "solana",
   "hyperliquid",
   "ethereum",
-  "pearl-2",
-  "pudgy-penguins",
-  "ripple",
-  "solana",
-  "sui",
+  "zcash",
+  "uniswap",
   "bittensor",
+  "ripple",
+  "pump-fun",
+  "monad",
   "cardano",
-  "aero",
-  "ondo-finance",
-  "akedo",
-  "uniswap"
+  "pearl-2",
+  "near",
+  "venice-token"
  ],
  "wallets": {}
 }
