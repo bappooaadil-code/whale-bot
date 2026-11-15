@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "pearl-2": 1794785379
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794771142,
+ "last_cg": 1794785379,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "macca-the-gator-2",
-  "ni-hao-cat",
   "audacity-4",
-  "gato-the-cat",
-  "identity-md",
-  "bitcoin",
   "pudgy-penguins",
+  "bitcoin",
   "solana",
+  "hyperliquid",
+  "aero",
+  "aster-2",
+  "sui",
+  "aave",
+  "pump-fun",
+  "pearl-2",
   "zcash",
-  "lighter",
-  "venice-token",
-  "cardano",
-  "ethena",
-  "uniswap",
-  "quant-network"
+  "ondo-finance",
+  "jupiter-exchange-solana"
  ],
  "wallets": {}
 }
