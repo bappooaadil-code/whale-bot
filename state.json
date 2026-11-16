@@ -1,28 +1,31 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1794826623,
+  "rain": 1794826623
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794797953,
+ "last_cg": 1794826623,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "pudgy-penguins",
-  "bitcoin",
-  "solana",
-  "pearl-2",
-  "aster-2",
-  "quantus",
-  "jupiter-exchange-solana",
-  "zcash",
-  "sui",
-  "pi-network",
-  "bittensor",
+  "macca-the-gator-2",
   "lighter",
-  "akedo",
-  "ripple",
-  "kava"
+  "gato-the-cat",
+  "bitcoin",
+  "hyperliquid",
+  "solana",
+  "zcash",
+  "pearl-2",
+  "pudgy-penguins",
+  "bittensor",
+  "sui",
+  "backpack",
+  "aster-2",
+  "evaa-protocol",
+  "monad"
  ],
  "wallets": {}
 }
