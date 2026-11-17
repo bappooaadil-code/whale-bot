@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "pieverse": 1794917156
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1794885464,
+ "last_cg": 1794917156,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "gato-the-cat",
   "backpack",
-  "bless-2",
-  "bittensor",
   "lighter",
-  "pudgy-penguins",
   "bitcoin",
-  "hyperliquid",
-  "aave",
-  "near",
-  "pearl-2",
-  "solana",
+  "pudgy-penguins",
   "ethereum",
-  "cash-cat",
-  "arbitrum",
-  "bitway"
+  "evaa-protocol",
+  "injective-protocol",
+  "venice-token",
+  "jupiter-exchange-solana",
+  "solana",
+  "pi-network",
+  "zcash",
+  "avalanche-2",
+  "hyperliquid"
  ],
  "wallets": {}
 }
