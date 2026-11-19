@@ -1,30 +1,30 @@
 {
  "cg_alerted": {
-  "bitway": 1795078070
+  "sky": 1795110242
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1795078070,
+ "last_cg": 1795110242,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "wasted-4",
+  "lucia-2",
+  "official-trump",
+  "sky",
   "pearl-2",
-  "terra-luna",
+  "lighter",
+  "pump-fun",
   "bitcoin",
   "pudgy-penguins",
-  "venice-token",
-  "hyperliquid",
-  "irys",
+  "aave",
   "solana",
+  "bittensor",
   "monad",
   "backpack",
-  "zcash",
-  "ripple",
-  "starknet",
-  "kaspa",
-  "bitway"
+  "hyperliquid"
  ],
  "wallets": {}
 }
