@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "bitway": 1795028848
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1795028848,
+ "last_cg": 1795050617,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "wasted-4",
-  "lucia-2",
-  "official-trump",
-  "pearl-2",
-  "pudgy-penguins",
   "bitcoin",
-  "backpack",
-  "quant-network",
+  "pearl-2",
   "zcash",
-  "venice-token",
-  "hyperliquid",
+  "backpack",
   "monad",
-  "ethereum",
+  "solana",
+  "quantus",
+  "ripple",
   "near",
-  "pippin"
+  "hyperliquid",
+  "lighter",
+  "pudgy-penguins",
+  "quant-network",
+  "evaa-protocol",
+  "algorand"
  ],
  "wallets": {}
 }
