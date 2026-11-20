@@ -1,31 +1,30 @@
 {
  "cg_alerted": {
-  "monero": 1795152786,
-  "pieverse": 1795152786
+  "pearl-2": 1795184352
  },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1795152786,
+ "last_cg": 1795184352,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
+  "wasted-4",
+  "official-trump",
+  "chunkee-the-manatee",
+  "lucia-2",
   "bitcoin",
-  "pudgy-penguins",
-  "injective-protocol",
-  "solana",
   "pearl-2",
-  "ethereum",
-  "monero",
-  "ethena",
-  "stellar",
   "hyperliquid",
-  "ripple",
-  "aero",
-  "venice-token",
-  "pons",
-  "stonk-3"
+  "solana",
+  "sky",
+  "g-token",
+  "bittensor",
+  "evaa-protocol",
+  "backpack",
+  "pudgy-penguins",
+  "ethereum"
  ],
  "wallets": {}
 }
