@@ -1,30 +1,28 @@
 {
- "cg_alerted": {
-  "pearl-2": 1795211559
- },
+ "cg_alerted": {},
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1795211559,
+ "last_cg": 1795229784,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
-  "wasted-4",
-  "official-trump",
-  "lucia-2",
   "chunkee-the-manatee",
   "bitcoin",
-  "hyperliquid",
-  "pearl-2",
-  "solana",
-  "ethereum",
-  "sui",
-  "pudgy-penguins",
-  "ondo-finance",
+  "near",
   "ripple",
-  "chainlink",
-  "monero"
+  "pearl-2",
+  "pudgy-penguins",
+  "ethereum",
+  "venice-token",
+  "backpack",
+  "hyperliquid",
+  "solana",
+  "canton-network",
+  "evaa-protocol",
+  "arbitrum",
+  "fetch-ai"
  ],
  "wallets": {}
 }
