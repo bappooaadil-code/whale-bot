@@ -1,28 +1,30 @@
 {
- "cg_alerted": {},
+ "cg_alerted": {
+  "bitway": 1795283212
+ },
  "dex_alerted": {},
  "helius_credits": 0,
  "helius_month": "",
  "helius_warned": false,
- "last_cg": 1795257924,
+ "last_cg": 1795283212,
  "last_wallets": 0,
  "tg_offset": 550211754,
  "trending": [
   "wasted-4",
-  "chunkee-the-manatee",
-  "hyperliquid",
-  "bitcoin",
-  "sui",
-  "solana",
+  "wanted-star",
   "zcash",
+  "backpack",
   "pudgy-penguins",
-  "ethereum",
+  "official-trump",
+  "chunkee-the-manatee",
+  "bitcoin",
   "bittensor",
-  "internet-computer",
-  "aptos",
-  "monad",
+  "ethereum",
+  "venice-token",
   "pearl-2",
-  "evaa-protocol"
+  "dogecoin",
+  "solana",
+  "collector-crypt"
  ],
  "wallets": {}
 }
